@@ -3,6 +3,7 @@ import './App.css';
 import SearchBar from './components/SearchBar';
 import EstablishmentCard from './components/EstablishmentCard';
 import Pagination from './components/Pagination';
+import { Button } from './components/styled/Button';
 import type {Establishment} from './types';
 import {useSearch} from './hooks/useSearch';
 
@@ -87,13 +88,13 @@ function App() {
                 <div className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-center sm:gap-4">
                     <SearchBar value={query} onChange={setQuery} onSubmit={submitSearch}
                                latlng={userLocation !== null ? [userLocation.lat, userLocation.lng] : null}/>
-                    <button
+                    <Button
                         onClick={handleGetLocation}
-                        className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+                        $variant="secondary"
                         disabled={userLocation !== null}
                     >
                         Sort By My Location
-                    </button>
+                    </Button>
                 </div>
             </header>
 
