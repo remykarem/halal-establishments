@@ -57,6 +57,9 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
       };
     }
     
+    // Reset page to 1 when search criteria change
+    setPage(1);
+    
     // Determine the strategy based on query type
     const strat = strategies.find((s) => s.canHandle(q)) ?? new TextSearchStrategy();
     const options: { origin?: LatLng } = {};
