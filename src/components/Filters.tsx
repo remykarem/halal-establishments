@@ -1,4 +1,4 @@
-import { Badge } from './ui/Badge';
+import { Badge } from './styled/Badge';
 
 type Props = {
   category1: boolean;

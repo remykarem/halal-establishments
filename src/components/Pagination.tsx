@@ -1,4 +1,4 @@
-import { Button } from './ui/Button';
+import { SmallButton } from './styled/Button';
 
 type Props = {
   page: number;
@@ -12,25 +12,23 @@ export default function Pagination({ page, totalPages, onPageChange }: Props) {
   const canNext = page < totalPages;
   return (
     <div className="flex items-center justify-center gap-2">
-      <Button
-        variant="outline"
-        size="sm"
+      <SmallButton
+        $variant="outline"
         onClick={() => onPageChange(page - 1)}
         disabled={!canPrev}
       >
         Prev
-      </Button>
+      </SmallButton>
       <span className="text-sm text-gray-600">
         Page {page} of {totalPages}
       </span>
-      <Button
-        variant="outline"
-        size="sm"
+      <SmallButton
+        $variant="outline"
         onClick={() => onPageChange(page + 1)}
         disabled={!canNext}
       >
         Next
-      </Button>
+      </SmallButton>
     </div>
   );
 }

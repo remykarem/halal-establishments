@@ -1,6 +1,6 @@
 import {useCallback, useRef} from 'react';
-import { Input } from './ui/Input';
-import { Button } from './ui/Button';
+import { Input } from './styled/Input';
+import { Button } from './styled/Button';
 
 type Props = {
     value: string,
@@ -26,6 +26,7 @@ export default function SearchBar({value, onChange, onSubmit}: Props) {
         <div className="w-full flex items-center gap-2">
             <Input
                 ref={inputRef}
+                type="text"
                 value={value}
                 onChange={(e) => onChange(e.target.value)}
                 onKeyDown={handleKeyDown}

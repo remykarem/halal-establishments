@@ -3,7 +3,7 @@ import './App.css';
 import SearchBar from './components/SearchBar';
 import EstablishmentCard from './components/EstablishmentCard';
 import Pagination from './components/Pagination';
-import { Button } from './components/ui/Button';
+import { Button } from './components/styled/Button';
 import type {Establishment} from './types';
 import {useSearch} from './hooks/useSearch';
 
@@ -90,7 +90,7 @@ function App() {
                                latlng={userLocation !== null ? [userLocation.lat, userLocation.lng] : null}/>
                     <Button
                         onClick={handleGetLocation}
-                        variant="secondary"
+                        $variant="secondary"
                         disabled={userLocation !== null}
                     >
                         Sort By My Location
