@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import type { Establishment } from '../types';
+import type { Establishment, LatLng } from '../types';
 import { PostalDistanceStrategy, TextSearchStrategy, type SearchStrategy } from '../search/strategies';
 
 export type Filters = {
@@ -14,7 +14,7 @@ const strategies: SearchStrategy[] = [
   new TextSearchStrategy(),
 ];
 
-export function useSearch(items: Establishment[]) {
+export function useSearch(items: Establishment[], userLocation: { lat: number; lng: number } | null = null) {
   const [query, setQuery] = useState('');
   const [filters, setFilters] = useState<Filters>(defaultFilters);
   const [page, setPage] = useState(1);
@@ -56,25 +56,55 @@ export function useSearch(items: Establishment[]) {
         active = false;
       };
     }
+    
+    // Determine the strategy based on query type
     const strat = strategies.find((s) => s.canHandle(q)) ?? new TextSearchStrategy();
-    const maybe = strat.run(q, filtered, {});
+    const options: { origin?: LatLng } = {};
+    
+    // If user location is available, pass it as origin for distance sorting
+    if (userLocation) {
+      options.origin = { latitude: userLocation.lat, longitude: userLocation.lng };
+    }
+    
+    const maybe = strat.run(q, filtered, options);
     if (maybe instanceof Promise) {
       setIsSearching(true);
-      setLabel(`Sorting by distance from postal code ${q}`);
+      const labelText = userLocation
+        ? `Sorting by distance from your location`
+        : `Sorting by distance from postal code ${q}`;
+      setLabel(labelText);
       maybe.then((res) => {
         if (!active) return;
         setSearched(res);
         setIsSearching(false);
       });
     } else {
-      setSearched(maybe);
-      setIsSearching(false);
-      setLabel(`Matching "${q}"`);
+      // Text search result - sort by user location if available
+      if (userLocation) {
+        setIsSearching(true);
+        setLabel(`Matching "${q}" and sorting by your location`);
+        const distanceStrat = new PostalDistanceStrategy();
+        const sorted = distanceStrat.run(q, maybe, options);
+        if (sorted instanceof Promise) {
+          sorted.then((res) => {
+            if (!active) return;
+            setSearched(res);
+            setIsSearching(false);
+          });
+        } else {
+          setSearched(sorted);
+          setIsSearching(false);
+        }
+      } else {
+        setSearched(maybe);
+        setIsSearching(false);
+        setLabel(`Matching "${q}"`);
+      }
     }
     return () => {
       active = false;
     };
-  }, [filtered, debouncedQuery]);
+  }, [filtered, debouncedQuery, userLocation]);
 
   const total = searched.length;
   const totalPages = Math.max(1, Math.ceil(total / pageSize));

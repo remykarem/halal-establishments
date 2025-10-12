@@ -67,7 +67,14 @@ function App() {
         goToPage,
         isSearching,
         label,
-    } = useSearch(items);
+    } = useSearch(items, userLocation);
+
+    // Trigger search when user location is set
+    useEffect(() => {
+        if (userLocation) {
+            submitSearch();
+        }
+    }, [userLocation, submitSearch]);
 
     return (
         <div className="mx-auto max-w-5xl p-6">
