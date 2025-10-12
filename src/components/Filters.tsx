@@ -1,3 +1,5 @@
+import { Badge } from './ui/Badge';
+
 type Props = {
   category1: boolean;
   category2: boolean;
@@ -14,7 +16,7 @@ export default function Filters({ category1, category2, onToggle }: Props) {
           checked={category1}
           onChange={() => onToggle('category1')}
         />
-        <span className="rounded-full bg-gray-100 px-3 py-1 text-xs">Category1</span>
+        <Badge>Category1</Badge>
       </label>
       <label className="inline-flex items-center gap-2">
         <input
@@ -23,7 +25,7 @@ export default function Filters({ category1, category2, onToggle }: Props) {
           checked={category2}
           onChange={() => onToggle('category2')}
         />
-        <span className="rounded-full bg-gray-100 px-3 py-1 text-xs">Category2</span>
+        <Badge>Category2</Badge>
       </label>
     </div>
   );
