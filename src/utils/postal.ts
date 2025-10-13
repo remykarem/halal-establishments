@@ -14,7 +14,7 @@ async function loadPostalData(): Promise<Map<string, LatLng>> {
     postalData = new Map();
     for (const line of lines) {
       if (!line.trim()) continue;
-      const [postal_code, _, lat, lon] = line.split(',');
+      const [postal_code, , lat, lon] = line.split(',');
       if (postal_code && lat && lon) {
         postalData.set(postal_code, {
           latitude: parseFloat(lat),

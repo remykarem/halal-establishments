@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import type { Establishment, LatLng } from '../types';
 import { PostalDistanceStrategy, TextSearchStrategy, type SearchStrategy } from '../search/strategies';
 
@@ -23,9 +23,9 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
   const [label, setLabel] = useState<string>('');
   const [debouncedQuery, setDebouncedQuery] = useState('');
 
-  const submitSearch = () => {
+  const submitSearch = useCallback(() => {
     setPage(1);
-  };
+  }, []);
 
   const filtered = useMemo(() => {
     // Placeholder filters — no-op for now, but easy to extend later.
@@ -49,9 +49,30 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
     let active = true;
     const q = debouncedQuery;
     if (!q) {
-      setSearched(filtered);
-      setIsSearching(false);
-      setLabel('');
+      // If no query but user location is available, sort all items by distance
+      if (userLocation) {
+        setIsSearching(true);
+        setLabel('Sorting by distance from your location');
+        const distanceStrat = new PostalDistanceStrategy();
+        const options: { origin?: LatLng } = {
+          origin: { latitude: userLocation.lat, longitude: userLocation.lng }
+        };
+        const sorted = distanceStrat.run('', filtered, options);
+        if (sorted instanceof Promise) {
+          sorted.then((res) => {
+            if (!active) return;
+            setSearched(res);
+            setIsSearching(false);
+          });
+        } else {
+          setSearched(sorted);
+          setIsSearching(false);
+        }
+      } else {
+        setSearched(filtered);
+        setIsSearching(false);
+        setLabel('');
+      }
       return () => {
         active = false;
       };
