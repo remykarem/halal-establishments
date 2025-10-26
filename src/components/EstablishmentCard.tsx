@@ -26,6 +26,11 @@ export default function EstablishmentCard({ item }: Props) {
             {item.distanceKm.toFixed(1)} km
           </Badge>
         )}
+          {item.cdc && (
+              <Badge $variant="secondary">
+                  CDC{item.cdc === "Yes" ? "" : "?"}
+              </Badge>
+          )}
       </div>
     </Card>
   );
