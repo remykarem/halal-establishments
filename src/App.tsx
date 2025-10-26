@@ -1,6 +1,7 @@
 import {useEffect, useState} from 'react';
 import './App.css';
 import SearchBar from './components/SearchBar';
+import CdcFilterDropdown from './components/CdcFilterDropdown';
 import EstablishmentCard from './components/EstablishmentCard';
 import Pagination from './components/Pagination';
 import { Button } from './components/styled/Button';
@@ -60,6 +61,8 @@ function App() {
     const {
         query,
         setQuery,
+        filters,
+        setCdcFilter,
         page,
         total,
         totalPages,
@@ -88,6 +91,7 @@ function App() {
                 <div className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-center sm:gap-4">
                     <SearchBar value={query} onChange={setQuery} onSubmit={submitSearch}
                                latlng={userLocation !== null ? [userLocation.lat, userLocation.lng] : null}/>
+                    <CdcFilterDropdown value={filters.cdc} onChange={setCdcFilter} />
                     <Button
                         onClick={handleGetLocation}
                         $variant="secondary"

@@ -8,7 +8,8 @@
     "id": "65462afa-1e37-4c60-9b0d-f1ebe5210314",
     "postal": "530121",
     "latitude": 1.353886,
-    "longitude": 103.8869364
+    "longitude": 103.8869364,
+    "cdc": true
   },
   {
     "name": "$5 WESTERN (S6) @ WU FU KALLANG HEIGHTS",
@@ -30,7 +31,8 @@
     "id": "9f31d416-1325-4d57-978d-a92566c4dc67",
     "postal": "757048",
     "latitude": 1.4485497,
-    "longitude": 103.7974196
+    "longitude": 103.7974196,
+    "cdc": true
   },
   {
     "name": "+ROBERT CATERING SERVICES PTE. LTD.",
@@ -52,7 +54,8 @@
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "408600",
     "latitude": 1.3188618,
-    "longitude": 103.8937906
+    "longitude": 103.8937906,
+    "cdc": true
   },
   {
     "name": "13 Kitchen",
@@ -74,7 +77,8 @@
     "id": "292c3360-3744-45a1-80e7-6a75a4cda694",
     "postal": "198717",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": false
   },
   {
     "name": "13 MILES",
@@ -96,7 +100,8 @@
     "id": "1e714a83-8be8-4037-b71a-d823e8e08cee",
     "postal": "629605",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": true
   },
   {
     "name": "156 Japanese Korean (S5)@Coffee & Tea Yishun",
@@ -118,7 +123,8 @@
     "id": "b5863466-c1d5-4d52-ac58-34adbab3195b",
     "postal": "138617",
     "latitude": 1.3074823,
-    "longitude": 103.7882862
+    "longitude": 103.7882862,
+    "cdc": true
   },
   {
     "name": "18C",
@@ -173,7 +179,8 @@
     "id": "5496961c-c4f4-4be4-a09f-1635954d58f6",
     "postal": "529889",
     "latitude": 1.3405824,
-    "longitude": 103.9492999
+    "longitude": 103.9492999,
+    "cdc": false
   },
   {
     "name": "1A CRISPY PUFFS",
@@ -228,7 +235,8 @@
     "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
     "postal": "237994",
     "latitude": 1.2933842,
-    "longitude": 103.8321064
+    "longitude": 103.8321064,
+    "cdc": true
   },
   {
     "name": "1A Heritage",
@@ -283,7 +291,8 @@
     "id": "671e206d-f8a1-4c32-a94c-0f81a712772f",
     "postal": "329133",
     "latitude": 1.3269567,
-    "longitude": 103.8473779
+    "longitude": 103.8473779,
+    "cdc": true
   },
   {
     "name": "21 On Rajah",
@@ -338,7 +347,8 @@
     "id": "2f921843-0a4b-48e3-8925-c42fa1a3fc11",
     "postal": "538792",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": false
   },
   {
     "name": "406 WESTERN (S6) @ WU FU TAMPINES ST 41",

@@ -2,12 +2,15 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import type { Establishment, LatLng } from '../types';
 import { PostalDistanceStrategy, TextSearchStrategy, type SearchStrategy } from '../search/strategies';
 
+export type CdcFilter = 'all' | 'with' | 'without';
+
 export type Filters = {
   category1: boolean;
   category2: boolean;
+  cdc: CdcFilter;
 };
 
-const defaultFilters: Filters = { category1: false, category2: false };
+const defaultFilters: Filters = { category1: false, category2: false, cdc: 'all' };
 
 const strategies: SearchStrategy[] = [
   new PostalDistanceStrategy(),
@@ -28,8 +31,17 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
   }, []);
 
   const filtered = useMemo(() => {
-    // Placeholder filters — no-op for now, but easy to extend later.
-    return items;
+    let result = items;
+    
+    // Apply CDC filter
+    if (filters.cdc === 'with') {
+      result = result.filter(item => item.cdc === true);
+    } else if (filters.cdc === 'without') {
+      result = result.filter(item => item.cdc !== true);
+    }
+    // 'all' means no filtering on CDC
+    
+    return result;
   }, [items, filters]);
 
   const [searched, setSearched] = useState<Establishment[]>(filtered);
@@ -138,6 +150,7 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
 
   const setQueryOnChange = (v: string) => setQuery(v);
   const toggleFilter = (key: keyof Filters) => setFilters((f) => ({ ...f, [key]: !f[key] }));
+  const setCdcFilter = (value: CdcFilter) => setFilters((f) => ({ ...f, cdc: value }));
 
   const goToPage = (p: number) => setPage(Math.min(Math.max(1, p), totalPages));
 
@@ -146,6 +159,7 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
     setQuery: setQueryOnChange,
     filters,
     toggleFilter,
+    setCdcFilter,
     page: currentPage,
     total,
     totalPages,
