@@ -8,7 +8,8 @@
     "id": "65462afa-1e37-4c60-9b0d-f1ebe5210314",
     "postal": "530121",
     "latitude": 1.353886,
-    "longitude": 103.8869364
+    "longitude": 103.8869364,
+    "cdc": "Maybe"
   },
   {
     "name": "$5 WESTERN (S6) @ WU FU KALLANG HEIGHTS",
@@ -63,7 +64,8 @@
     "id": "5f1d492e-e8db-41dc-9b38-389464062311",
     "postal": "528845",
     "latitude": 1.3408013,
-    "longitude": 103.943375
+    "longitude": 103.943375,
+    "cdc": "Yes"
   },
   {
     "name": "13 Miles",
@@ -195,7 +197,8 @@
     "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
     "postal": "120449",
     "latitude": 1.3138314,
-    "longitude": 103.7647772
+    "longitude": 103.7647772,
+    "cdc": "Maybe"
   },
   {
     "name": "1A Heritage",
@@ -217,7 +220,8 @@
     "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
     "postal": "460209",
     "latitude": 1.3245626,
-    "longitude": 103.9310904
+    "longitude": 103.9310904,
+    "cdc": "Maybe"
   },
   {
     "name": "1A Heritage",
@@ -305,7 +309,8 @@
     "id": "cd6cc204-2e99-47de-9863-877eeb6316ee",
     "postal": "420002",
     "latitude": 1.3158679,
-    "longitude": 103.8985054
+    "longitude": 103.8985054,
+    "cdc": "Maybe"
   },
   {
     "name": "3 EMBERS CULINARY CRAFT PTE. LTD.",
@@ -349,7 +354,8 @@
     "id": "f3347b54-2376-48ba-bdc1-480549182ca1",
     "postal": "520406",
     "latitude": 1.3580869,
-    "longitude": 103.9459776
+    "longitude": 103.9459776,
+    "cdc": "Maybe"
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
@@ -503,7 +509,8 @@
     "id": "90b83324-363a-4406-9afa-08b19b67522d",
     "postal": "768893",
     "latitude": 1.4305999,
-    "longitude": 103.8385638
+    "longitude": 103.8385638,
+    "cdc": "Yes"
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
@@ -525,7 +532,8 @@
     "id": "90b83324-363a-4406-9afa-08b19b67522d",
     "postal": "461056",
     "latitude": 1.3249134,
-    "longitude": 103.9409428
+    "longitude": 103.9409428,
+    "cdc": "Yes"
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
@@ -602,7 +610,8 @@
     "id": "0df5aca2-e319-4f92-8fa9-9f44ed9a02a9",
     "postal": "390051",
     "latitude": 1.3081705,
-    "longitude": 103.8857438
+    "longitude": 103.8857438,
+    "cdc": "Yes"
   },
   {
     "name": "97 NASI LEMAK",
@@ -635,7 +644,8 @@
     "id": "a7b4c11b-0acd-4965-81d5-9bf386c266bb",
     "postal": "540339",
     "latitude": 1.396769,
-    "longitude": 103.8884658
+    "longitude": 103.8884658,
+    "cdc": "Yes"
   },
   {
     "name": "A&W",
@@ -778,7 +788,8 @@
     "id": "e3739fb2-98c3-4004-83b5-1fbc9d4c375f",
     "postal": "797637",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "ABANG GEMUK (S1) @ FoodHub 496 Jurong West",
@@ -789,7 +800,8 @@
     "id": "f1003e93-078c-440e-b0b5-a231dd31888a",
     "postal": "640496",
     "latitude": 1.3500667,
-    "longitude": 103.7238325
+    "longitude": 103.7238325,
+    "cdc": "Maybe"
   },
   {
     "name": "Abang Gemuk (S1) @ FoodHub Aljunied",
@@ -800,7 +812,8 @@
     "id": "a210cf88-76ab-4cf8-b526-1d6c604b5146",
     "postal": "380119",
     "latitude": 1.317624,
-    "longitude": 103.8842413
+    "longitude": 103.8842413,
+    "cdc": "Maybe"
   },
   {
     "name": "ABANG GEMUK (S10) @ FOODHUB 547 SEGAR ROAD",
@@ -811,7 +824,8 @@
     "id": "bbc989a7-3339-4374-9523-cba9918118fa",
     "postal": "670547",
     "latitude": 1.3879115,
-    "longitude": 103.7699226
+    "longitude": 103.7699226,
+    "cdc": "Maybe"
   },
   {
     "name": "ABANG GEMUK (S12) @ FoodHub 48 Toh Guan",
@@ -833,7 +847,8 @@
     "id": "14ff1802-3045-46fe-979f-68ea7662099e",
     "postal": "650506",
     "latitude": 1.3522452,
-    "longitude": 103.7546863
+    "longitude": 103.7546863,
+    "cdc": "Maybe"
   },
   {
     "name": "Abang Gemuk (S3) @Food Paradise Sengkang",
@@ -844,7 +859,8 @@
     "id": "c9a1d890-a4da-4ae9-8044-249dbbac1a9a",
     "postal": "540279",
     "latitude": 1.386242,
-    "longitude": 103.8930497
+    "longitude": 103.8930497,
+    "cdc": "Maybe"
   },
   {
     "name": "Abang Gemuk (S4) @ Soon Huat FoodCenter 233 Toa Payoh",
@@ -866,7 +882,8 @@
     "id": "d534c8ac-9b62-4d1f-b702-033e4348868b",
     "postal": "650134",
     "latitude": 1.3515799,
-    "longitude": 103.7445234
+    "longitude": 103.7445234,
+    "cdc": "Maybe"
   },
   {
     "name": "Abang Nasi Goreng (S1) @ Kampung Admiralty",
@@ -877,7 +894,8 @@
     "id": "3b5bc3d2-951b-4e4d-8bf4-6c3e9ffb2676",
     "postal": "730676",
     "latitude": 1.4398326,
-    "longitude": 103.8006892
+    "longitude": 103.8006892,
+    "cdc": "Yes"
   },
   {
     "name": "ABANG RECIPES",
@@ -943,7 +961,8 @@
     "id": "a38ed3f3-c19b-4c8c-9a5f-858750d8c7af",
     "postal": "120503",
     "latitude": 1.3117891,
-    "longitude": 103.7598562
+    "longitude": 103.7598562,
+    "cdc": "Yes"
   },
   {
     "name": "Add More Mala Hot Pot (Stall 49) @ Bukit Canberra Hawker Centre",
@@ -1020,7 +1039,8 @@
     "id": "e3ffd4bb-47b5-4442-a997-2a2e1943d1e9",
     "postal": "650376",
     "latitude": 1.3585403,
-    "longitude": 103.749428
+    "longitude": 103.749428,
+    "cdc": "Maybe"
   },
   {
     "name": "AH MAH COOKS PTE. LTD.",
@@ -1042,7 +1062,8 @@
     "id": "b77adf47-afed-43ae-b492-547bb4b82e79",
     "postal": "555945",
     "latitude": 1.3632136,
-    "longitude": 103.8666229
+    "longitude": 103.8666229,
+    "cdc": "Yes"
   },
   {
     "name": "AIR PASANG SEAFOOD & DESSERT (S4) @ AIR PASANG RUMAH MAKAN",
@@ -1053,7 +1074,8 @@
     "id": "a21faa39-7303-4913-8b1f-c5795524766b",
     "postal": "650374",
     "latitude": 1.3579683,
-    "longitude": 103.7507222
+    "longitude": 103.7507222,
+    "cdc": "Yes"
   },
   {
     "name": "Aishwarya Kitchen (S2) @ Adi Foods",
@@ -1097,7 +1119,8 @@
     "id": "e29e1f89-40a1-4021-930f-42558e6dd7d8",
     "postal": "150120",
     "latitude": 1.2863882,
-    "longitude": 103.8045454
+    "longitude": 103.8045454,
+    "cdc": "Yes"
   },
   {
     "name": "AJ Delights Snacks",
@@ -1130,7 +1153,8 @@
     "id": "efcd8c9c-ed45-47fb-b3c6-0cde08b37ae3",
     "postal": "520844",
     "latitude": 1.3521193,
-    "longitude": 103.9365383
+    "longitude": 103.9365383,
+    "cdc": "Maybe"
   },
   {
     "name": "Al Madina Famous Prata Corner",
@@ -1152,7 +1176,8 @@
     "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
     "postal": "140040",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Al Madina Famous Prata Corner",
@@ -1163,7 +1188,8 @@
     "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
     "postal": "650413",
     "latitude": 1.363754,
-    "longitude": 103.7467239
+    "longitude": 103.7467239,
+    "cdc": "Maybe"
   },
   {
     "name": "Al Madina Famous Prata Corner",
@@ -1174,7 +1200,8 @@
     "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
     "postal": "673635",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Al Madina Famous Prata Corner",
@@ -1207,7 +1234,8 @@
     "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
     "postal": "523494",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Al Madina Famous Prata Corner (S1) @ Foodhub 449 Clementi",
@@ -1218,7 +1246,8 @@
     "id": "3228adf4-baa8-4b0f-ab20-3369bf1851a2",
     "postal": "120449",
     "latitude": 1.3138314,
-    "longitude": 103.7647772
+    "longitude": 103.7647772,
+    "cdc": "Maybe"
   },
   {
     "name": "Al Madina Famous Prata Corner (S4) @ Badaling 207 Bukit Batok",
@@ -1229,7 +1258,8 @@
     "id": "229801a5-9d6d-4c0b-97b1-f9406c73ad4a",
     "postal": "650207",
     "latitude": 1.3462442,
-    "longitude": 103.7494054
+    "longitude": 103.7494054,
+    "cdc": "Maybe"
   },
   {
     "name": "Al Madina Famous Prata Corner (S4) @ FoodHub 803 Keat Hong",
@@ -1240,7 +1270,8 @@
     "id": "c9f14a94-f669-483f-9672-c50e77737b4f",
     "postal": "680803",
     "latitude": 1.3742636,
-    "longitude": 103.7426804
+    "longitude": 103.7426804,
+    "cdc": "Maybe"
   },
   {
     "name": "Al Madina Famous Prata Corner (S6) @ Foodhub 36 Chai Chee",
@@ -1251,7 +1282,8 @@
     "id": "abb1ee2c-2ef3-4390-ab40-1ea834603a26",
     "postal": "461036",
     "latitude": 1.325334,
-    "longitude": 103.9254234
+    "longitude": 103.9254234,
+    "cdc": "Maybe"
   },
   {
     "name": "Al madina famous prata corner(S4) @ Foodhub 801 West Coast",
@@ -1273,7 +1305,8 @@
     "id": "18ce2f76-9e97-448b-a1a1-362b68565920",
     "postal": "650155",
     "latitude": 1.3480151,
-    "longitude": 103.7435899
+    "longitude": 103.7435899,
+    "cdc": "Maybe"
   },
   {
     "name": "AL MAKAN",
@@ -1284,7 +1317,8 @@
     "id": "11f1839f-4f76-4287-879a-e6583e1aec64",
     "postal": "524201",
     "latitude": 1.3521865,
-    "longitude": 103.9536186
+    "longitude": 103.9536186,
+    "cdc": "Yes"
   },
   {
     "name": "Al Rayyan",
@@ -1317,7 +1351,8 @@
     "id": "5c539ec2-e820-493d-88c5-cbf3aab626b2",
     "postal": "560727",
     "latitude": 1.3728035,
-    "longitude": 103.8460669
+    "longitude": 103.8460669,
+    "cdc": "Yes"
   },
   {
     "name": "AL-AZHAR",
@@ -1350,7 +1385,8 @@
     "id": "c8161e95-0eb8-446a-bbec-85059e2a3e6d",
     "postal": "141088",
     "latitude": 1.3010768,
-    "longitude": 103.7996718
+    "longitude": 103.7996718,
+    "cdc": "Maybe"
   },
   {
     "name": "Ali's Fry & Grill Mini Wok Western (S5)@Koufu Wisteria Mall",
@@ -1438,7 +1474,8 @@
     "id": "5dbd35a9-1163-42e3-a70d-6e7dbd39c3d8",
     "postal": "469662",
     "latitude": 1.326735,
-    "longitude": 103.9318058
+    "longitude": 103.9318058,
+    "cdc": "Yes"
   },
   {
     "name": "AMBUR STAR BRIYANI",
@@ -1460,7 +1497,8 @@
     "id": "77fb5f9e-c268-41ce-b19b-0a7e71051fff",
     "postal": "159053",
     "latitude": 1.2868027,
-    "longitude": 103.8147126
+    "longitude": 103.8147126,
+    "cdc": "Yes"
   },
   {
     "name": "AMGD Superfood Restaurant",
@@ -1471,7 +1509,8 @@
     "id": "77fb5f9e-c268-41ce-b19b-0a7e71051fff",
     "postal": "159053",
     "latitude": 1.2868027,
-    "longitude": 103.8147126
+    "longitude": 103.8147126,
+    "cdc": "Yes"
   },
   {
     "name": "AMICI EVENTS & CATERING PTE. LTD.",
@@ -1493,7 +1532,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "640221",
     "latitude": 1.3463982,
-    "longitude": 103.7123189
+    "longitude": 103.7123189,
+    "cdc": "Yes"
   },
   {
     "name": "Amigo's",
@@ -1504,7 +1544,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "100065",
     "latitude": 1.2740527,
-    "longitude": 103.8103976
+    "longitude": 103.8103976,
+    "cdc": "Yes"
   },
   {
     "name": "Amigo's",
@@ -1526,7 +1567,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "823421",
     "latitude": 1.4192544,
-    "longitude": 103.9053186
+    "longitude": 103.9053186,
+    "cdc": "Yes"
   },
   {
     "name": "Amigo's",
@@ -1537,7 +1579,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "530134",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Amigo's",
@@ -1548,7 +1591,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "750365",
     "latitude": 1.4445478,
-    "longitude": 103.8161194
+    "longitude": 103.8161194,
+    "cdc": "Maybe"
   },
   {
     "name": "Amigo's",
@@ -1559,7 +1603,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "640651",
     "latitude": 1.3372123,
-    "longitude": 103.6972252
+    "longitude": 103.6972252,
+    "cdc": "Maybe"
   },
   {
     "name": "Amigo's",
@@ -1581,7 +1626,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "510444",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Amigo's",
@@ -1614,7 +1660,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "530681",
     "latitude": 1.3731083,
-    "longitude": 103.8859106
+    "longitude": 103.8859106,
+    "cdc": "Yes"
   },
   {
     "name": "Amigo's",
@@ -1625,7 +1672,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "550304",
     "latitude": 1.3538158,
-    "longitude": 103.8677483
+    "longitude": 103.8677483,
+    "cdc": "Maybe"
   },
   {
     "name": "Amigo's",
@@ -1647,7 +1695,8 @@
     "id": "0803ae69-4a42-441f-9eb8-5d452651837a",
     "postal": "570284",
     "latitude": 1.3588103,
-    "longitude": 103.8442917
+    "longitude": 103.8442917,
+    "cdc": "Maybe"
   },
   {
     "name": "Amigo's (S2) @ KIMLY 496 Jurong West",
@@ -1658,7 +1707,8 @@
     "id": "2b113c59-37bd-4d19-a81e-bea4fcb9264b",
     "postal": "640496",
     "latitude": 1.3500667,
-    "longitude": 103.7238325
+    "longitude": 103.7238325,
+    "cdc": "Yes"
   },
   {
     "name": "AMRA CATERING PTE. LTD.",
@@ -1977,7 +2027,8 @@
     "id": "61f0314b-de19-4ca8-a734-1b0ce72d6714",
     "postal": "486047",
     "latitude": 1.3348948,
-    "longitude": 103.9546163
+    "longitude": 103.9546163,
+    "cdc": "Yes"
   },
   {
     "name": "Ann&Kalsri Chicken Rice F&B/Chinese Kitchen (S5) @Monfort Sec Sch",
@@ -1999,7 +2050,8 @@
     "id": "62248ee5-adfa-4246-b3fb-3915823c2686",
     "postal": "820681",
     "latitude": 1.4028084,
-    "longitude": 103.9132017
+    "longitude": 103.9132017,
+    "cdc": "Yes"
   },
   {
     "name": "ANNA'S X UNION THESOUPSPOON",
@@ -2054,7 +2106,8 @@
     "id": "e4b544ed-9ac9-4596-a9b4-2b397549f129",
     "postal": "310107",
     "latitude": 1.3412298,
-    "longitude": 103.8471209
+    "longitude": 103.8471209,
+    "cdc": "Yes"
   },
   {
     "name": "APS BAKE KITCHEN",
@@ -2098,7 +2151,8 @@
     "id": "e8ba6fb7-0b2d-48d5-8b3d-9a0c5b80a73e",
     "postal": "640451",
     "latitude": 1.35197,
-    "longitude": 103.7188142
+    "longitude": 103.7188142,
+    "cdc": "Yes"
   },
   {
     "name": "Ark Hot Kitchen @ Assumption Pathway School",
@@ -2186,7 +2240,8 @@
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "460215",
     "latitude": 1.3260635,
-    "longitude": 103.933491
+    "longitude": 103.933491,
+    "cdc": "Maybe"
   },
   {
     "name": "ARTEASE CAFE",
@@ -2219,7 +2274,8 @@
     "id": "d3fac8ea-3845-4de7-bb71-c4a6aebaf302",
     "postal": "738962",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "ARTEASE CAFE",
@@ -2230,7 +2286,8 @@
     "id": "d3fac8ea-3845-4de7-bb71-c4a6aebaf302",
     "postal": "737909",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Asam Tree (S7) @ Broadway Coffeeshop",
@@ -2241,7 +2298,8 @@
     "id": "3f4bc855-b32d-4123-b72b-960264441e38",
     "postal": "650155",
     "latitude": 1.3480151,
-    "longitude": 103.7435899
+    "longitude": 103.7435899,
+    "cdc": "Maybe"
   },
   {
     "name": "ASAM TREE CAFE, BAKERY AND RESTAURANT",
@@ -2252,7 +2310,8 @@
     "id": "fc7d0e16-0124-44ca-bf79-aadcff8d3187",
     "postal": "560709",
     "latitude": 1.3710937,
-    "longitude": 103.8476629
+    "longitude": 103.8476629,
+    "cdc": "Yes"
   },
   {
     "name": "Asam Tree Malay Cuisine (S5) @ Kopitiam KTPH",
@@ -2362,7 +2421,8 @@
     "id": "215d889d-9ac8-4e13-afb1-6cacb0371a0e",
     "postal": "760104",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "ASM FROZEN FOOD PTE LTD MUTTON STALL(S71)@CHONG PANG FOOD MARKET",
@@ -2373,7 +2433,8 @@
     "id": "16943ce3-03f6-4611-a695-f8f9b6517961",
     "postal": "760104",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Atrium Kitchen @ Holiday Inn Singapore Atrium",
@@ -2813,7 +2874,8 @@
     "id": "585a6af2-fa77-40bd-88e0-0cefae3e46ca",
     "postal": "648202",
     "latitude": 1.3412728,
-    "longitude": 103.6972337
+    "longitude": 103.6972337,
+    "cdc": "Yes"
   },
   {
     "name": "B. Baker",
@@ -2824,7 +2886,8 @@
     "id": "97f57129-5b94-44a2-8112-76daabdf1ef0",
     "postal": "310192",
     "latitude": 1.3316889,
-    "longitude": 103.8505017
+    "longitude": 103.8505017,
+    "cdc": "Maybe"
   },
   {
     "name": "B1 EVENT KITCHEN @ AMARA SINGAPORE",
@@ -2868,7 +2931,8 @@
     "id": "fbd45662-23ce-4884-86c6-f40ffe6dee2d",
     "postal": "138602",
     "latitude": 1.3040281,
-    "longitude": 103.7737149
+    "longitude": 103.7737149,
+    "cdc": "Yes"
   },
   {
     "name": "BAE.GAL",
@@ -2923,7 +2987,8 @@
     "id": "d2fd5544-21f8-4501-af66-a11689bda2cd",
     "postal": "636866",
     "latitude": 1.3546135,
-    "longitude": 103.6840484
+    "longitude": 103.6840484,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE & BREAD",
@@ -2934,7 +2999,8 @@
     "id": "7b02518c-1151-4223-ab74-bfb391b2e1a4",
     "postal": "650633",
     "latitude": 1.3491818,
-    "longitude": 103.7511663
+    "longitude": 103.7511663,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -2956,7 +3022,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "544275",
     "latitude": 1.3827845,
-    "longitude": 103.8939931
+    "longitude": 103.8939931,
+    "cdc": "Maybe"
   },
   {
     "name": "BAKE INC",
@@ -2967,7 +3034,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "640762",
     "latitude": 1.3489093,
-    "longitude": 103.6976934
+    "longitude": 103.6976934,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -2978,7 +3046,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "520505",
     "latitude": 1.3555256,
-    "longitude": 103.9455582
+    "longitude": 103.9455582,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3000,7 +3069,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "760317",
     "latitude": 1.4337778,
-    "longitude": 103.8422752
+    "longitude": 103.8422752,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3011,7 +3081,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "760414",
     "latitude": 1.424848,
-    "longitude": 103.8464004
+    "longitude": 103.8464004,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3044,7 +3115,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "121441",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3066,7 +3138,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "680475",
     "latitude": 1.3777839,
-    "longitude": 103.7388825
+    "longitude": 103.7388825,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3088,7 +3161,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "460017",
     "latitude": 1.3201303,
-    "longitude": 103.9355628
+    "longitude": 103.9355628,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3110,7 +3184,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "680810",
     "latitude": 1.3739577,
-    "longitude": 103.7462425
+    "longitude": 103.7462425,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3121,7 +3196,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "560449",
     "latitude": 1.368009,
-    "longitude": 103.8559821
+    "longitude": 103.8559821,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3154,7 +3230,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "820168",
     "latitude": 1.3941997,
-    "longitude": 103.9130494
+    "longitude": 103.9130494,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3176,7 +3253,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "310520",
     "latitude": 1.3330325,
-    "longitude": 103.8474784
+    "longitude": 103.8474784,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3220,7 +3298,8 @@
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "567226",
     "latitude": 1.3668276,
-    "longitude": 103.8398635
+    "longitude": 103.8398635,
+    "cdc": "Yes"
   },
   {
     "name": "BAKE INC",
@@ -3231,7 +3310,8 @@
     "id": "d5227c89-53e9-49a8-a4f4-ad83f3d38db0",
     "postal": "460084",
     "latitude": 1.331922,
-    "longitude": 103.9396221
+    "longitude": 103.9396221,
+    "cdc": "Yes"
   },
   {
     "name": "Bake One Bakery",
@@ -3253,7 +3333,8 @@
     "id": "8c01183b-e03b-43c9-b926-bf833b2e44ce",
     "postal": "680143",
     "latitude": 1.3804824,
-    "longitude": 103.7530948
+    "longitude": 103.7530948,
+    "cdc": "Maybe"
   },
   {
     "name": "BAKEINC",
@@ -3275,7 +3356,8 @@
     "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
     "postal": "760293",
     "latitude": 1.4364812,
-    "longitude": 103.8374946
+    "longitude": 103.8374946,
+    "cdc": "Maybe"
   },
   {
     "name": "BAKEINC",
@@ -3286,7 +3368,8 @@
     "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
     "postal": "760846",
     "latitude": 1.41672,
-    "longitude": 103.83451
+    "longitude": 103.83451,
+    "cdc": "Yes"
   },
   {
     "name": "BAKEINC",
@@ -3308,7 +3391,8 @@
     "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
     "postal": "200809",
     "latitude": 1.3081996,
-    "longitude": 103.8622806
+    "longitude": 103.8622806,
+    "cdc": "Yes"
   },
   {
     "name": "BAKEINC",
@@ -3319,7 +3403,8 @@
     "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
     "postal": "460539",
     "latitude": 1.3316114,
-    "longitude": 103.9254992
+    "longitude": 103.9254992,
+    "cdc": "Maybe"
   },
   {
     "name": "BAKEINC",
@@ -3352,7 +3437,8 @@
     "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
     "postal": "462057",
     "latitude": 1.3234289,
-    "longitude": 103.9411521
+    "longitude": 103.9411521,
+    "cdc": "Yes"
   },
   {
     "name": "BAKER'S OVEN",
@@ -3638,7 +3724,8 @@
     "id": "d5ac83d7-7a5a-4489-8eda-80eaedb663bf",
     "postal": "820108",
     "latitude": 1.398447,
-    "longitude": 103.904921
+    "longitude": 103.904921,
+    "cdc": "Maybe"
   },
   {
     "name": "BARA PENYET",
@@ -3836,7 +3923,8 @@
     "id": "b7cd3772-9023-48ac-875f-98c5d4d3b718",
     "postal": "560341",
     "latitude": 1.3640156,
-    "longitude": 103.8481666
+    "longitude": 103.8481666,
+    "cdc": "Yes"
   },
   {
     "name": "BELLYGOOD CATERER",
@@ -3924,7 +4012,8 @@
     "id": "87b89f08-f679-40dc-ac97-bf10496f5e44",
     "postal": "641638",
     "latitude": 1.3419557,
-    "longitude": 103.6976218
+    "longitude": 103.6976218,
+    "cdc": "Maybe"
   },
   {
     "name": "Beradik Western Cuisine (S5) @Koufu Tengah",
@@ -3946,7 +4035,8 @@
     "id": "d4f1fca7-dee7-474b-9c16-553c83d83e8e",
     "postal": "680253",
     "latitude": 1.3772518,
-    "longitude": 103.7444962
+    "longitude": 103.7444962,
+    "cdc": "Yes"
   },
   {
     "name": "BETTER BAKER",
@@ -3957,7 +4047,8 @@
     "id": "9e8331ff-49a3-4d13-a0f0-3472512f6aa0",
     "postal": "460017",
     "latitude": 1.3201303,
-    "longitude": 103.9355628
+    "longitude": 103.9355628,
+    "cdc": "Yes"
   },
   {
     "name": "BETTER BAKER",
@@ -3968,7 +4059,8 @@
     "id": "8bf2a7e3-ea8f-4124-bc65-458e59dc4134",
     "postal": "460213",
     "latitude": 1.3262772,
-    "longitude": 103.932575
+    "longitude": 103.932575,
+    "cdc": "Maybe"
   },
   {
     "name": "Beverage Section @ Chara Brasserie",
@@ -4100,7 +4192,8 @@
     "id": "1eed1f4f-ce5c-431d-a4e7-e4f75c9602d9",
     "postal": "540339",
     "latitude": 1.396769,
-    "longitude": 103.8884658
+    "longitude": 103.8884658,
+    "cdc": "Yes"
   },
   {
     "name": "Big Dot Chicken (S223) @ Chinatown Complex Hawker Centre",
@@ -4111,7 +4204,8 @@
     "id": "83906af0-380c-4ec9-8460-c9b9a392faf8",
     "postal": "050335",
     "latitude": 1.2821553,
-    "longitude": 103.8430077
+    "longitude": 103.8430077,
+    "cdc": "Yes"
   },
   {
     "name": "BIG FISH SMALL FISH CAFE",
@@ -4199,7 +4293,8 @@
     "id": "1526e5b7-565b-47ca-bc51-a49e906ab7bd",
     "postal": "540339",
     "latitude": 1.396769,
-    "longitude": 103.8884658
+    "longitude": 103.8884658,
+    "cdc": "Yes"
   },
   {
     "name": "Bistro Box",
@@ -4232,7 +4327,8 @@
     "id": "8061016d-f5e1-400e-9fbc-49602fe70687",
     "postal": "637331",
     "latitude": 1.3471065,
-    "longitude": 103.6801167
+    "longitude": 103.6801167,
+    "cdc": "Yes"
   },
   {
     "name": "Blue Ocean Kopi & Toast",
@@ -4243,7 +4339,8 @@
     "id": "8061016d-f5e1-400e-9fbc-49602fe70687",
     "postal": "680533",
     "latitude": 1.392354,
-    "longitude": 103.743339
+    "longitude": 103.743339,
+    "cdc": "Yes"
   },
   {
     "name": "Bluestar Banana Leaf Restaurant Pte Ltd",
@@ -4397,7 +4494,8 @@
     "id": "9cd457d0-ff9f-46f7-838b-0fdab2ebd5f4",
     "postal": "640506",
     "latitude": 1.3491041,
-    "longitude": 103.7188033
+    "longitude": 103.7188033,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD ERA",
@@ -4408,7 +4506,8 @@
     "id": "9cd457d0-ff9f-46f7-838b-0fdab2ebd5f4",
     "postal": "640495",
     "latitude": 1.3497193,
-    "longitude": 103.7242737
+    "longitude": 103.7242737,
+    "cdc": "Maybe"
   },
   {
     "name": "BREAD FRESH",
@@ -4419,7 +4518,8 @@
     "id": "1d434b62-3fc6-4bca-b729-a6c95ae04a1b",
     "postal": "670445",
     "latitude": 1.3836117,
-    "longitude": 103.7707432
+    "longitude": 103.7707432,
+    "cdc": "Maybe"
   },
   {
     "name": "BREAD FRESH",
@@ -4430,7 +4530,8 @@
     "id": "1d434b62-3fc6-4bca-b729-a6c95ae04a1b",
     "postal": "670257",
     "latitude": 1.3785152,
-    "longitude": 103.7730811
+    "longitude": 103.7730811,
+    "cdc": "Maybe"
   },
   {
     "name": "BREAD FRESH",
@@ -4441,7 +4542,8 @@
     "id": "1d434b62-3fc6-4bca-b729-a6c95ae04a1b",
     "postal": "760846",
     "latitude": 1.41672,
-    "longitude": 103.83451
+    "longitude": 103.83451,
+    "cdc": "Maybe"
   },
   {
     "name": "BREAD FRESH",
@@ -4452,7 +4554,8 @@
     "id": "1d434b62-3fc6-4bca-b729-a6c95ae04a1b",
     "postal": "640960",
     "latitude": 1.3414085,
-    "longitude": 103.6914877
+    "longitude": 103.6914877,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD FRESH",
@@ -4463,7 +4566,8 @@
     "id": "1d434b62-3fc6-4bca-b729-a6c95ae04a1b",
     "postal": "731570",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD FRESH",
@@ -4474,7 +4578,8 @@
     "id": "1d434b62-3fc6-4bca-b729-a6c95ae04a1b",
     "postal": "760103",
     "latitude": 1.4315712,
-    "longitude": 103.8293524
+    "longitude": 103.8293524,
+    "cdc": "Maybe"
   },
   {
     "name": "BREAD FRESH",
@@ -4496,7 +4601,8 @@
     "id": "1d434b62-3fc6-4bca-b729-a6c95ae04a1b",
     "postal": "640221",
     "latitude": 1.3463982,
-    "longitude": 103.7123189
+    "longitude": 103.7123189,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD FRESH",
@@ -4507,7 +4613,8 @@
     "id": "71691a1f-2718-4ec1-bffb-b47fee05a4f4",
     "postal": "760461",
     "latitude": 1.4286159,
-    "longitude": 103.849993
+    "longitude": 103.849993,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD FRESH SIGNATURES PTE. LTD.",
@@ -4529,7 +4636,8 @@
     "id": "5879d8c9-1a54-4edf-b3b8-b1ec60ff7108",
     "postal": "650283",
     "latitude": 1.3472076,
-    "longitude": 103.7574271
+    "longitude": 103.7574271,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD GARDEN",
@@ -4540,7 +4648,8 @@
     "id": "5879d8c9-1a54-4edf-b3b8-b1ec60ff7108",
     "postal": "760417",
     "latitude": 1.4243778,
-    "longitude": 103.8463265
+    "longitude": 103.8463265,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD GARDEN",
@@ -4551,7 +4660,8 @@
     "id": "5879d8c9-1a54-4edf-b3b8-b1ec60ff7108",
     "postal": "730768",
     "latitude": 1.4457214,
-    "longitude": 103.7980178
+    "longitude": 103.7980178,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD GARDEN",
@@ -4562,7 +4672,8 @@
     "id": "5879d8c9-1a54-4edf-b3b8-b1ec60ff7108",
     "postal": "670485",
     "latitude": 1.3887814,
-    "longitude": 103.7709682
+    "longitude": 103.7709682,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD JUNCTION",
@@ -4573,7 +4684,8 @@
     "id": "decb19b6-4968-48c5-9a89-c3fed4934b22",
     "postal": "524201",
     "latitude": 1.3521865,
-    "longitude": 103.9536186
+    "longitude": 103.9536186,
+    "cdc": "Maybe"
   },
   {
     "name": "BREAD JUNCTION",
@@ -4584,7 +4696,8 @@
     "id": "decb19b6-4968-48c5-9a89-c3fed4934b22",
     "postal": "730888",
     "latitude": 1.4377962,
-    "longitude": 103.7952803
+    "longitude": 103.7952803,
+    "cdc": "Maybe"
   },
   {
     "name": "BREAD JUNCTION",
@@ -4606,7 +4719,8 @@
     "id": "decb19b6-4968-48c5-9a89-c3fed4934b22",
     "postal": "820639",
     "latitude": 1.3994359,
-    "longitude": 103.9160906
+    "longitude": 103.9160906,
+    "cdc": "Yes"
   },
   {
     "name": "BREAD JUNCTION",
@@ -4628,7 +4742,8 @@
     "id": "decb19b6-4968-48c5-9a89-c3fed4934b22",
     "postal": "370037",
     "latitude": 1.3282009,
-    "longitude": 103.8865037
+    "longitude": 103.8865037,
+    "cdc": "Yes"
   },
   {
     "name": "BRIGHTASTE FOOD PTE. LTD.",
@@ -4694,7 +4809,8 @@
     "id": "e41a1194-c248-4f09-8429-e4179cbe340d",
     "postal": "690127",
     "latitude": 1.3576257,
-    "longitude": 103.7342034
+    "longitude": 103.7342034,
+    "cdc": "Yes"
   },
   {
     "name": "BUMBU MAS KITCHEN",
@@ -4716,7 +4832,8 @@
     "id": "876c7f52-6654-4378-a665-e787ca288b56",
     "postal": "260004",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Bumbu Restaurant",
@@ -5662,7 +5779,8 @@
     "id": "43d64b41-601e-4089-b85e-bbb482fb6529",
     "postal": "618499",
     "latitude": 1.3346111,
-    "longitude": 103.7216378
+    "longitude": 103.7216378,
+    "cdc": "Yes"
   },
   {
     "name": "Bytes Cafe (Mngd By The Wok People)",
@@ -5904,7 +6022,8 @@
     "id": "d0fbbfa0-c891-49bf-afb7-a78dd45d2942",
     "postal": "461020",
     "latitude": 1.3260784,
-    "longitude": 103.9230994
+    "longitude": 103.9230994,
+    "cdc": "Yes"
   },
   {
     "name": "CALIBER ESSENTIALS PTE. LTD.",
@@ -6091,7 +6210,8 @@
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "310206",
     "latitude": 1.342327,
-    "longitude": 103.846501
+    "longitude": 103.846501,
+    "cdc": "Yes"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -6212,7 +6332,8 @@
     "id": "913f00e6-ef9b-44e1-b093-0b0fe8db050e",
     "postal": "380018",
     "latitude": 1.31491,
-    "longitude": 103.872218
+    "longitude": 103.872218,
+    "cdc": "Yes"
   },
   {
     "name": "Carrara",
@@ -6223,7 +6344,8 @@
     "id": "dc42ca27-88f2-4703-be62-fa8f079daddd",
     "postal": "150002",
     "latitude": 1.2866949,
-    "longitude": 103.806587
+    "longitude": 103.806587,
+    "cdc": "Yes"
   },
   {
     "name": "Carrot Cake (S3) @ Cantine Greenridge",
@@ -6234,7 +6356,8 @@
     "id": "d66d631c-3e54-49a0-b033-47cb03e06807",
     "postal": "671524",
     "latitude": 1.3853559,
-    "longitude": 103.7661736
+    "longitude": 103.7661736,
+    "cdc": "Yes"
   },
   {
     "name": "CASSEROLE CATERING SERVICES PTE LTD",
@@ -6520,7 +6643,8 @@
     "id": "5b9c942b-c4d1-4599-ba72-e42e6644067d",
     "postal": "641638",
     "latitude": 1.3419557,
-    "longitude": 103.6976218
+    "longitude": 103.6976218,
+    "cdc": "Maybe"
   },
   {
     "name": "Chai-San Omu Curry Rice & Donburi (MR2)@Cantine Pasir Ris Mall",
@@ -6553,7 +6677,8 @@
     "id": "08045eed-b1a7-4e6f-8f54-15ad3fea1ea5",
     "postal": "730306",
     "latitude": 1.4302025,
-    "longitude": 103.7745159
+    "longitude": 103.7745159,
+    "cdc": "Yes"
   },
   {
     "name": "Charr'd",
@@ -6773,7 +6898,8 @@
     "id": "b2c554a6-3fc8-4bfc-863a-5abdd7724483",
     "postal": "500005",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Chicken Rice (S3) @ Fork & Spoon Toa Payoh",
@@ -6795,7 +6921,8 @@
     "id": "c416dc91-1a65-4cd7-9e33-8012da022aa2",
     "postal": "530991",
     "latitude": 1.3842797,
-    "longitude": 103.8815633
+    "longitude": 103.8815633,
+    "cdc": "Maybe"
   },
   {
     "name": "Chicken Rice (S3) @ Quad Cafe",
@@ -6839,7 +6966,8 @@
     "id": "3b828e2b-d629-4f3b-a670-670a1f446735",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "Chicken Rice (S6)@ Koufu SP Aero Hub",
@@ -6927,7 +7055,8 @@
     "id": "6d384a78-5327-427f-becc-53858cacda4f",
     "postal": "050005",
     "latitude": 1.2811861,
-    "longitude": 103.8434428
+    "longitude": 103.8434428,
+    "cdc": "Yes"
   },
   {
     "name": "Chicky Fun (S2) @ Koufu SGH",
@@ -6971,7 +7100,8 @@
     "id": "0e6307d3-2fd5-4b3c-881a-0e0900176616",
     "postal": "469662",
     "latitude": 1.326735,
-    "longitude": 103.9318058
+    "longitude": 103.9318058,
+    "cdc": "Yes"
   },
   {
     "name": "Chilli Api Catering Pte Ltd",
@@ -7092,7 +7222,8 @@
     "id": "81b1d109-964d-4485-823e-9c3afa735dad",
     "postal": "530524",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S1) @ De Tian 205 Bedok",
@@ -7103,7 +7234,8 @@
     "id": "a2d0f01b-a7fa-43bd-a73e-ccaaac9a6eb2",
     "postal": "460205",
     "latitude": 1.3260594,
-    "longitude": 103.9311026
+    "longitude": 103.9311026,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S3) @ De Tian 81 Marine Parade",
@@ -7114,7 +7246,8 @@
     "id": "b09e18ef-7d93-4dcf-a9e6-8bf9a0e5aef9",
     "postal": "440081",
     "latitude": 1.3028749,
-    "longitude": 103.9069004
+    "longitude": 103.9069004,
+    "cdc": "Yes"
   },
   {
     "name": "Chops & Sear (S4) @ De Tian 28 Bukit Merah",
@@ -7125,7 +7258,8 @@
     "id": "a18575c2-2fe2-4283-8f38-d89384c4d4fc",
     "postal": "152028",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S4) @ De Tian 73 Toa Payoh Vista",
@@ -7136,7 +7270,8 @@
     "id": "c23eaa9f-2dd0-45bf-8451-90294c0d2889",
     "postal": "310073",
     "latitude": 1.3344416,
-    "longitude": 103.851721
+    "longitude": 103.851721,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S5) @ De Tian 120 Bishan",
@@ -7147,7 +7282,8 @@
     "id": "b4df2604-2c06-4700-bcd5-036727a28163",
     "postal": "570120",
     "latitude": 1.3473084,
-    "longitude": 103.8508593
+    "longitude": 103.8508593,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S5) @ De Tian 59 Bedok",
@@ -7158,7 +7294,8 @@
     "id": "139e4d84-77c8-4a1d-b6de-7c55d3aa352f",
     "postal": "461059",
     "latitude": 1.3239637,
-    "longitude": 103.9407314
+    "longitude": 103.9407314,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S6) @ De Tian 631 Ang Mo Kio",
@@ -7169,7 +7306,8 @@
     "id": "10704f0e-715f-4788-967c-fde81dc6867c",
     "postal": "560631",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S7) @ De Tian 265 Bukit Batok",
@@ -7191,7 +7329,8 @@
     "id": "14332f21-67cb-4081-9f98-247a872a70be",
     "postal": "100046",
     "latitude": 1.2716264,
-    "longitude": 103.8098873
+    "longitude": 103.8098873,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S7) @ De Tian 529 Cheng San Centre",
@@ -7202,7 +7341,8 @@
     "id": "f96f916c-573e-41d1-a1f3-831d296aa66d",
     "postal": "560529",
     "latitude": 1.3726324,
-    "longitude": 103.855819
+    "longitude": 103.855819,
+    "cdc": "Maybe"
   },
   {
     "name": "Chops & Sear (S8) @ De Tian 570A Woodlands",
@@ -7213,7 +7353,8 @@
     "id": "9b1727f7-a5ba-49aa-9cde-1bc998ccf496",
     "postal": "731570",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Chops & Sear (S8) @ De Tian 915 Tampines",
@@ -7224,7 +7365,8 @@
     "id": "51ed2ac8-6956-4d19-bd66-24857f23459b",
     "postal": "520915",
     "latitude": 1.3485989,
-    "longitude": 103.9395614
+    "longitude": 103.9395614,
+    "cdc": "Maybe"
   },
   {
     "name": "CHOPS! GRILL & SIDES",
@@ -7279,7 +7421,8 @@
     "id": "33214625-9125-42b1-9706-5dd5c4deb40d",
     "postal": "540118",
     "latitude": 1.3852902,
-    "longitude": 103.9017192
+    "longitude": 103.9017192,
+    "cdc": "Yes"
   },
   {
     "name": "CHWM PTE LTD",
@@ -7510,7 +7653,8 @@
     "id": "fa78a7c3-31d4-4d00-8784-1a50825c3a65",
     "postal": "760156",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Coba Coba",
@@ -7521,7 +7665,8 @@
     "id": "fa78a7c3-31d4-4d00-8784-1a50825c3a65",
     "postal": "760156",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "COBA KEDAI KOPI",
@@ -7642,7 +7787,8 @@
     "id": "2610b10e-25e3-4821-b11a-e98efd585166",
     "postal": "750105",
     "latitude": 1.4488286,
-    "longitude": 103.8324198
+    "longitude": 103.8324198,
+    "cdc": "Yes"
   },
   {
     "name": "Community Brew",
@@ -7653,7 +7799,8 @@
     "id": "e6e0a01c-2d06-4098-9224-12753d79033c",
     "postal": "756973",
     "latitude": 1.4481456,
-    "longitude": 103.823179
+    "longitude": 103.823179,
+    "cdc": "Yes"
   },
   {
     "name": "Continental Delight Catering Services Pte Ltd",
@@ -8038,7 +8185,8 @@
     "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "CRAVE",
@@ -8126,7 +8274,8 @@
     "id": "b03ab793-4fa5-43e4-a0c0-27eb9026a395",
     "postal": "524201",
     "latitude": 1.3521865,
-    "longitude": 103.9536186
+    "longitude": 103.9536186,
+    "cdc": "Yes"
   },
   {
     "name": "CROLO",
@@ -8533,7 +8682,8 @@
     "id": "51a2cd56-09f7-481a-870d-edfca7aba830",
     "postal": "760846",
     "latitude": 1.41672,
-    "longitude": 103.83451
+    "longitude": 103.83451,
+    "cdc": "Yes"
   },
   {
     "name": "D'RUBINAH EATING PLACE PTE. LTD.",
@@ -8566,7 +8716,8 @@
     "id": "4eb6069f-8e68-46d6-8ce2-0d52fa5a0efc",
     "postal": "760935",
     "latitude": 1.4253005,
-    "longitude": 103.8367201
+    "longitude": 103.8367201,
+    "cdc": "Yes"
   },
   {
     "name": "D'RUBINAH@AMK",
@@ -8577,7 +8728,8 @@
     "id": "64f9de65-dd28-4d7d-adfc-e9e5ba6bf448",
     "postal": "560340",
     "latitude": 1.364535,
-    "longitude": 103.8495281
+    "longitude": 103.8495281,
+    "cdc": "Yes"
   },
   {
     "name": "D's Hood (MR1) @ The Broadway 334A Sembawang",
@@ -8665,7 +8817,8 @@
     "id": "d4374366-76ce-45b0-8c20-817f0f954736",
     "postal": "760744",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Dajie Makan Place",
@@ -8676,7 +8829,8 @@
     "id": "d4374366-76ce-45b0-8c20-817f0f954736",
     "postal": "650372",
     "latitude": 1.3587508,
-    "longitude": 103.7513847
+    "longitude": 103.7513847,
+    "cdc": "Yes"
   },
   {
     "name": "Dajie Makan Place",
@@ -8687,7 +8841,8 @@
     "id": "d4374366-76ce-45b0-8c20-817f0f954736",
     "postal": "120354",
     "latitude": 1.3138743,
-    "longitude": 103.7712809
+    "longitude": 103.7712809,
+    "cdc": "Yes"
   },
   {
     "name": "Dajie Makan Place",
@@ -8852,7 +9007,8 @@
     "id": "3ca5b9cd-b5a3-4641-813f-63723e8344ee",
     "postal": "530212",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "DELCIE'S DESSERTS AND CAKES",
@@ -8863,7 +9019,8 @@
     "id": "d74771e7-2a3c-49d5-bc5a-19ec3e56b4f3",
     "postal": "330034",
     "latitude": 1.3200743,
-    "longitude": 103.8626136
+    "longitude": 103.8626136,
+    "cdc": "Maybe"
   },
   {
     "name": "DELCIE'S DESSERTS AND CAKES",
@@ -9336,7 +9493,8 @@
     "id": "1fa618db-515a-46ab-a24e-184ccbff3781",
     "postal": "500005",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Dip 'n' Go",
@@ -9380,7 +9538,8 @@
     "id": "77367467-024d-44c8-8b2d-b1582957f90f",
     "postal": "510442",
     "latitude": 1.3690727,
-    "longitude": 103.9575925
+    "longitude": 103.9575925,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9413,7 +9572,8 @@
     "id": "39e65de8-1b7f-426b-9a2b-0c399126d87a",
     "postal": "440083",
     "latitude": 1.3027074,
-    "longitude": 103.906025
+    "longitude": 103.906025,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9424,7 +9584,8 @@
     "id": "93ef97d6-1cee-48f8-baa4-238c52c221e8",
     "postal": "460213",
     "latitude": 1.3262772,
-    "longitude": 103.932575
+    "longitude": 103.932575,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9435,7 +9596,8 @@
     "id": "84e3e9b9-6993-4365-be6e-415335ed53bc",
     "postal": "670258",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9446,7 +9608,8 @@
     "id": "37992dde-886d-49dd-ac5b-669fca610a14",
     "postal": "530204",
     "latitude": 1.3587456,
-    "longitude": 103.8849117
+    "longitude": 103.8849117,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9457,7 +9620,8 @@
     "id": "33614695-6c49-49b7-a22e-8780cffaab92",
     "postal": "550266",
     "latitude": 1.3533018,
-    "longitude": 103.8714468
+    "longitude": 103.8714468,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9468,7 +9632,8 @@
     "id": "5a96110c-5f9a-41e2-8236-8c04131a02f6",
     "postal": "082001",
     "latitude": 1.275303,
-    "longitude": 103.8428382
+    "longitude": 103.8428382,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9479,7 +9644,8 @@
     "id": "5a2ce9cc-e58c-41fd-b071-a10368ed9f81",
     "postal": "530811",
     "latitude": 1.3718169,
-    "longitude": 103.8938503
+    "longitude": 103.8938503,
+    "cdc": "Maybe"
   },
   {
     "name": "DJ BAKERY",
@@ -9490,7 +9656,8 @@
     "id": "858cc443-eac3-4f40-b355-bd2e388db250",
     "postal": "521519",
     "latitude": 1.357161,
-    "longitude": 103.9406172
+    "longitude": 103.9406172,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9501,7 +9668,8 @@
     "id": "fa7a6853-5279-45d7-a748-de5ea0d2bd18",
     "postal": "520826",
     "latitude": 1.3494422,
-    "longitude": 103.9334174
+    "longitude": 103.9334174,
+    "cdc": "Yes"
   },
   {
     "name": "DJ BAKERY",
@@ -9545,7 +9713,8 @@
     "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
     "postal": "730676",
     "latitude": 1.4398326,
-    "longitude": 103.8006892
+    "longitude": 103.8006892,
+    "cdc": "Yes"
   },
   {
     "name": "Do Qoo",
@@ -9556,7 +9725,8 @@
     "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
     "postal": "750133",
     "latitude": 1.4431567,
-    "longitude": 103.830618
+    "longitude": 103.830618,
+    "cdc": "Maybe"
   },
   {
     "name": "Do Qoo",
@@ -9578,7 +9748,8 @@
     "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
     "postal": "138602",
     "latitude": 1.3040281,
-    "longitude": 103.7737149
+    "longitude": 103.7737149,
+    "cdc": "Yes"
   },
   {
     "name": "Do Qoo",
@@ -9600,7 +9771,8 @@
     "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
     "postal": "820168",
     "latitude": 1.3941997,
-    "longitude": 103.9130494
+    "longitude": 103.9130494,
+    "cdc": "Yes"
   },
   {
     "name": "Do Qoo",
@@ -9941,7 +10113,8 @@
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "520802",
     "latitude": 1.3459013,
-    "longitude": 103.9380216
+    "longitude": 103.9380216,
+    "cdc": "Yes"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -10183,7 +10356,8 @@
     "id": "7c992208-5277-422f-977a-abcda8394f89",
     "postal": "440081",
     "latitude": 1.3028749,
-    "longitude": 103.9069004
+    "longitude": 103.9069004,
+    "cdc": "Yes"
   },
   {
     "name": "Dou (S1) @ De Tian 529 Ang Mo Kio",
@@ -10194,7 +10368,8 @@
     "id": "2a4ad967-9ffd-4817-ab3f-40ab03f810cd",
     "postal": "560529",
     "latitude": 1.3726324,
-    "longitude": 103.855819
+    "longitude": 103.855819,
+    "cdc": "Maybe"
   },
   {
     "name": "Dou (S1) @ Tam Chiak Kopitiam Hougang",
@@ -10205,7 +10380,8 @@
     "id": "cf5949aa-a929-4da0-9c89-36ddf8d1e5f3",
     "postal": "530212",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Dou (S10) @ 7 Stars Jurong West",
@@ -10216,7 +10392,8 @@
     "id": "726f419f-cdba-437c-ad43-dcc397999e79",
     "postal": "640498",
     "latitude": 1.3486472,
-    "longitude": 103.7242922
+    "longitude": 103.7242922,
+    "cdc": "Maybe"
   },
   {
     "name": "Dou (S10) @ De Tian Bukit Panjang",
@@ -10260,7 +10437,8 @@
     "id": "3d17da70-a7ec-4cf6-8034-7b88b9479262",
     "postal": "460209",
     "latitude": 1.3245626,
-    "longitude": 103.9310904
+    "longitude": 103.9310904,
+    "cdc": "Maybe"
   },
   {
     "name": "Dou (S8) @ Maxim Tam Chiak Kopitiam Northshore",
@@ -10282,7 +10460,8 @@
     "id": "b9e78408-8b8b-46d0-9bf4-b1856f2cba70",
     "postal": "520824",
     "latitude": 1.3491452,
-    "longitude": 103.9324723
+    "longitude": 103.9324723,
+    "cdc": "Maybe"
   },
   {
     "name": "DOUGH CULTURE",
@@ -10513,7 +10692,8 @@
     "id": "6b1f4f6a-dd44-4734-8dd4-0034c275e6a3",
     "postal": "420002",
     "latitude": 1.3158679,
-    "longitude": 103.8985054
+    "longitude": 103.8985054,
+    "cdc": "Maybe"
   },
   {
     "name": "Drinks & Desserts (S8) @ Tang Tea House Jurong West",
@@ -10557,7 +10737,8 @@
     "id": "af41625b-b935-40b6-931a-45d0beadcf49",
     "postal": "544278",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Drinks (S8) @ Rasa Rasa Teck Whye",
@@ -10590,7 +10771,8 @@
     "id": "2dc2c183-fe1a-4553-8430-ce67aa95bc89",
     "postal": "322102",
     "latitude": 1.3207016,
-    "longitude": 103.8621153
+    "longitude": 103.8621153,
+    "cdc": "Yes"
   },
   {
     "name": "Dunkin'",
@@ -10854,7 +11036,8 @@
     "id": "54f70f82-8f91-4abd-b2d4-70a6cb9cec1f",
     "postal": "500005",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "DYNAMIC DINING HOUSE",
@@ -10898,7 +11081,8 @@
     "id": "3774bb8c-156c-4fdb-9fc8-9400f1a6ccf2",
     "postal": "510258",
     "latitude": 1.3670929,
-    "longitude": 103.9647716
+    "longitude": 103.9647716,
+    "cdc": "Yes"
   },
   {
     "name": "EARLE SWENSENS",
@@ -11085,7 +11269,8 @@
     "id": "9f491c8d-1891-4991-972e-8b363a826a11",
     "postal": "090011",
     "latitude": 1.2773843,
-    "longitude": 103.8186815
+    "longitude": 103.8186815,
+    "cdc": "Yes"
   },
   {
     "name": "EDMOND CHICKEN RICE",
@@ -11107,7 +11292,8 @@
     "id": "54f3a0ce-35d4-40cb-ac80-01ca8c78ad5a",
     "postal": "760717",
     "latitude": 1.4258716,
-    "longitude": 103.8280915
+    "longitude": 103.8280915,
+    "cdc": "Yes"
   },
   {
     "name": "El Carbon",
@@ -11118,7 +11304,8 @@
     "id": "54f3a0ce-35d4-40cb-ac80-01ca8c78ad5a",
     "postal": "560721",
     "latitude": 1.3723624,
-    "longitude": 103.8478916
+    "longitude": 103.8478916,
+    "cdc": "Maybe"
   },
   {
     "name": "El Carbon (S13) @ Foodies' Clan T2 Staff Canteen",
@@ -11184,7 +11371,8 @@
     "id": "f2dfe035-107f-4667-a653-6556dc4be2e6",
     "postal": "730548",
     "latitude": 1.4307736,
-    "longitude": 103.7940509
+    "longitude": 103.7940509,
+    "cdc": "Yes"
   },
   {
     "name": "ENAKSEDAP F&B PTE. LTD.",
@@ -11701,7 +11889,8 @@
     "id": "de7e4fa8-3415-4d52-93cf-d1152bc2039b",
     "postal": "460209",
     "latitude": 1.3245626,
-    "longitude": 103.9310904
+    "longitude": 103.9310904,
+    "cdc": "Maybe"
   },
   {
     "name": "Fatty Bom Bom (S2) @ Grains & Hops 365B Hougang",
@@ -11712,7 +11901,8 @@
     "id": "f3c160e4-e06f-4618-9a15-3678e9ea9286",
     "postal": "532365",
     "latitude": 1.3692392,
-    "longitude": 103.8976398
+    "longitude": 103.8976398,
+    "cdc": "Maybe"
   },
   {
     "name": "FATTY BOM BOM (S2) @ Grains & Hops 978 Toa Payoh",
@@ -11723,7 +11913,8 @@
     "id": "1705adac-59aa-4b18-b59c-5fdc85c6f5de",
     "postal": "319001",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "FATTY BOM BOM (S3) GRAINS & HOPS 494 TAMPINES",
@@ -11734,7 +11925,8 @@
     "id": "f3403c6c-5e5a-4300-be11-e452c7d1825d",
     "postal": "523494",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "FATTY BOM BOM (S7) @ FOODHUB 145 TECK WHYE",
@@ -11745,7 +11937,8 @@
     "id": "db83ea56-0a26-46e0-8d99-f96e5363c17a",
     "postal": "680145",
     "latitude": 1.3812234,
-    "longitude": 103.7523834
+    "longitude": 103.7523834,
+    "cdc": "Maybe"
   },
   {
     "name": "FATTY BOM BOM (S9) @ FoodHub 325 Clementi",
@@ -11756,7 +11949,8 @@
     "id": "b44002a4-9dca-4bb4-b0db-877eb3e7b3c6",
     "postal": "120325",
     "latitude": 1.3151568,
-    "longitude": 103.7668491
+    "longitude": 103.7668491,
+    "cdc": "Maybe"
   },
   {
     "name": "FATTY BOM BOM (S9) @ FOODHUB 455 SENGKANG",
@@ -11767,7 +11961,8 @@
     "id": "655866d5-2e77-414c-8e46-22346eb68dcb",
     "postal": "790455",
     "latitude": 1.3918586,
-    "longitude": 103.871393
+    "longitude": 103.871393,
+    "cdc": "Maybe"
   },
   {
     "name": "Fatty Bom Bom Sizzle ( S2 ) @ Kopitiam Corner 273 Punggol Place",
@@ -11778,7 +11973,8 @@
     "id": "73b53094-060f-4fe4-9c44-aaf11b52a78a",
     "postal": "823273",
     "latitude": 1.4022354,
-    "longitude": 103.9012736
+    "longitude": 103.9012736,
+    "cdc": "Maybe"
   },
   {
     "name": "Fatty Bom Bom Sizzle (S11) @ FoodHub 167 Marsiling",
@@ -11800,7 +11996,8 @@
     "id": "fa49e8f4-ae44-4420-b9cf-eab44bc006b4",
     "postal": "650413",
     "latitude": 1.363754,
-    "longitude": 103.7467239
+    "longitude": 103.7467239,
+    "cdc": "Maybe"
   },
   {
     "name": "Fire Western N Grill (S18)@Foodjunction Lot One",
@@ -11833,7 +12030,8 @@
     "id": "99ad3f64-cca4-40fc-ae87-1ece1283995c",
     "postal": "650467",
     "latitude": 1.3571484,
-    "longitude": 103.7434631
+    "longitude": 103.7434631,
+    "cdc": "Maybe"
   },
   {
     "name": "FISH & CHICKS (MR2) @ HAPPY HAWKERS SENGKANG WEST",
@@ -11844,7 +12042,8 @@
     "id": "a043e738-d135-4289-ae3e-7ee78715dbad",
     "postal": "791433",
     "latitude": 1.3948505,
-    "longitude": 103.8775896
+    "longitude": 103.8775896,
+    "cdc": "Maybe"
   },
   {
     "name": "FISH & CHICKS (MR3) @ HAPPY HAWKERS WOODLANDS",
@@ -11855,7 +12054,8 @@
     "id": "fdc32a14-47d3-4107-bd48-4e12d68fea8d",
     "postal": "737859",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "FISH & CHICKS (MR4) @ KOUFU CONNEXIS",
@@ -11888,7 +12088,8 @@
     "id": "e419c0dc-4d42-4db2-80e4-b8815ccd0bc6",
     "postal": "560531",
     "latitude": 1.3733422,
-    "longitude": 103.8542745
+    "longitude": 103.8542745,
+    "cdc": "Maybe"
   },
   {
     "name": "FISH & CHICKS (S4) @ HAPPY HAWKERS WATERWAY",
@@ -11899,7 +12100,8 @@
     "id": "b3591999-29ee-49c5-bd82-eb78f7c80ce3",
     "postal": "820671",
     "latitude": 1.4056456,
-    "longitude": 103.9120385
+    "longitude": 103.9120385,
+    "cdc": "Maybe"
   },
   {
     "name": "Fish & Chicks (S6) @ Broadway 414 Yishun",
@@ -11910,7 +12112,8 @@
     "id": "57bc7cef-2e5b-4126-9a08-f1ef5d627344",
     "postal": "760414",
     "latitude": 1.424848,
-    "longitude": 103.8464004
+    "longitude": 103.8464004,
+    "cdc": "Yes"
   },
   {
     "name": "FISH & CO RESTAURANTS PTE LTD",
@@ -11987,7 +12190,8 @@
     "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
     "postal": "519641",
     "latitude": 1.3734192,
-    "longitude": 103.9515498
+    "longitude": 103.9515498,
+    "cdc": "Yes"
   },
   {
     "name": "Fish & Co.",
@@ -12009,7 +12213,8 @@
     "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
     "postal": "671524",
     "latitude": 1.3853559,
-    "longitude": 103.7661736
+    "longitude": 103.7661736,
+    "cdc": "Yes"
   },
   {
     "name": "Fish & Co.",
@@ -12086,7 +12291,8 @@
     "id": "25d2dc45-6d20-414a-8509-39358d44afaa",
     "postal": "402001",
     "latitude": 1.3167212,
-    "longitude": 103.8982175
+    "longitude": 103.8982175,
+    "cdc": "Maybe"
   },
   {
     "name": "Fitra Chicken Rice",
@@ -12251,7 +12457,8 @@
     "id": "09af2736-ce22-45f1-a082-39bf4f6855b4",
     "postal": "544829",
     "latitude": 1.3915779,
-    "longitude": 103.8935522
+    "longitude": 103.8935522,
+    "cdc": "Maybe"
   },
   {
     "name": "Fitra Chicken rice (S6) @ Gourmet Paradise Oasis Terraces",
@@ -12262,7 +12469,8 @@
     "id": "7b2d1d7f-a416-4d22-994a-a80c04a25439",
     "postal": "820681",
     "latitude": 1.4028084,
-    "longitude": 103.9132017
+    "longitude": 103.9132017,
+    "cdc": "Maybe"
   },
   {
     "name": "Fitra Chicken Rice (S8)@Food Dynasty Lazada One",
@@ -12328,7 +12536,8 @@
     "id": "858409d2-c899-4b5b-982d-a5f5e3599ddb",
     "postal": "523954",
     "latitude": 1.3424177,
-    "longitude": 103.9364452
+    "longitude": 103.9364452,
+    "cdc": "Yes"
   },
   {
     "name": "Flakyhaus (S10) @ Tam Chiak Kopitiam Hougang",
@@ -12339,7 +12548,8 @@
     "id": "10a1b664-5feb-4ff8-82cb-5c9bb606a206",
     "postal": "530212",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Flavours by Saute",
@@ -12471,7 +12681,8 @@
     "id": "72a153f0-f701-4ceb-91a6-8fe3d4da0dfd",
     "postal": "401001",
     "latitude": 1.3212895,
-    "longitude": 103.9026839
+    "longitude": 103.9026839,
+    "cdc": "Maybe"
   },
   {
     "name": "FOODEX FOOD SERVICES PTE. LTD.",
@@ -12537,7 +12748,8 @@
     "id": "3e931d43-a32a-4129-8d5c-0e9a02ec295f",
     "postal": "330029",
     "latitude": 1.3192191,
-    "longitude": 103.8629775
+    "longitude": 103.8629775,
+    "cdc": "Yes"
   },
   {
     "name": "Fortune Popiah (S52) @ Kovan Market & Food Centre",
@@ -12548,7 +12760,8 @@
     "id": "a65671f4-a516-4a44-94fa-f9d85324d241",
     "postal": "530209",
     "latitude": 1.3589714,
-    "longitude": 103.886127
+    "longitude": 103.886127,
+    "cdc": "Yes"
   },
   {
     "name": "FOUR PIZZA",
@@ -12680,7 +12893,8 @@
     "id": "dad977a3-c27e-44cf-85bd-5675750deb19",
     "postal": "151116",
     "latitude": 1.285153,
-    "longitude": 103.82138
+    "longitude": 103.82138,
+    "cdc": "Maybe"
   },
   {
     "name": "FRIED RICE STORY (S7) @ FOOD PARADISE ANCHORVALE",
@@ -12801,7 +13015,8 @@
     "id": "91381c01-4bad-43c5-a4a0-7ad872bab8aa",
     "postal": "640456",
     "latitude": 1.3506239,
-    "longitude": 103.7198159
+    "longitude": 103.7198159,
+    "cdc": "Maybe"
   },
   {
     "name": "FUSION SPOON",
@@ -12845,7 +13060,8 @@
     "id": "99def733-a809-4820-85a8-20297f1fd2a5",
     "postal": "120449",
     "latitude": 1.3138314,
-    "longitude": 103.7647772
+    "longitude": 103.7647772,
+    "cdc": "Maybe"
   },
   {
     "name": "Fusion Western Cuisine (S5) @ST 82 Coffee House",
@@ -12856,7 +13072,8 @@
     "id": "f8291a25-5e06-4126-b422-cfe3a54cf01b",
     "postal": "520844",
     "latitude": 1.3521193,
-    "longitude": 103.9365383
+    "longitude": 103.9365383,
+    "cdc": "Maybe"
   },
   {
     "name": "Fusion Western Cuisine (S6) @ 326 Coffee Shop",
@@ -12867,7 +13084,8 @@
     "id": "6d1a6ec7-fe01-465c-8d92-0a72b449a03f",
     "postal": "550326",
     "latitude": 1.3502903,
-    "longitude": 103.8689785
+    "longitude": 103.8689785,
+    "cdc": "Maybe"
   },
   {
     "name": "Fusion Western Cuisine (S8) @ 155 Bukit Batok FoodHub",
@@ -12878,7 +13096,8 @@
     "id": "44a023c3-b1ce-474c-b3c6-ad861aaea68b",
     "postal": "650155",
     "latitude": 1.3480151,
-    "longitude": 103.7435899
+    "longitude": 103.7435899,
+    "cdc": "Maybe"
   },
   {
     "name": "FUSION WESTERN CUISINE(S5) @ 169 Food HUB",
@@ -12889,7 +13108,8 @@
     "id": "55184517-7742-4f0c-bd47-cadd7aba8929",
     "postal": "140169",
     "latitude": 1.2904084,
-    "longitude": 103.8030903
+    "longitude": 103.8030903,
+    "cdc": "Maybe"
   },
   {
     "name": "FUSION WESTERN CUISINE(S5)@ FOOD HUB Bangkit",
@@ -12911,7 +13131,8 @@
     "id": "4f91b1ee-b055-462f-b62f-fc9ba2ee684c",
     "postal": "750361",
     "latitude": 1.4463446,
-    "longitude": 103.8142336
+    "longitude": 103.8142336,
+    "cdc": "Yes"
   },
   {
     "name": "G.V. Meat Distributors",
@@ -13307,7 +13528,8 @@
     "id": "e9505aa3-1211-4404-a3cd-01c9790e777a",
     "postal": "229495",
     "latitude": 1.3120271,
-    "longitude": 103.8396446
+    "longitude": 103.8396446,
+    "cdc": "Yes"
   },
   {
     "name": "GOLDEN PILLOW 933 PTE. LTD.",
@@ -13395,7 +13617,8 @@
     "id": "86ffcf77-760d-4500-bc5b-ba219a8d726a",
     "postal": "567720",
     "latitude": 1.3775869,
-    "longitude": 103.8563216
+    "longitude": 103.8563216,
+    "cdc": "Yes"
   },
   {
     "name": "Good Day Cafe",
@@ -13406,7 +13629,8 @@
     "id": "86ffcf77-760d-4500-bc5b-ba219a8d726a",
     "postal": "567720",
     "latitude": 1.3775869,
-    "longitude": 103.8563216
+    "longitude": 103.8563216,
+    "cdc": "Yes"
   },
   {
     "name": "Good Day Cafe (S21) @ Makan Place Ngee Ann Polytechnic",
@@ -13527,7 +13751,8 @@
     "id": "5d15f33b-1cd5-48bf-975e-d5b13aff2a94",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "Grill Ninety Nine",
@@ -13549,7 +13774,8 @@
     "id": "01b7f3af-edd8-4000-be39-97f8fef4a5cc",
     "postal": "229495",
     "latitude": 1.3120271,
-    "longitude": 103.8396446
+    "longitude": 103.8396446,
+    "cdc": "Yes"
   },
   {
     "name": "GYOGYO",
@@ -13637,7 +13863,8 @@
     "id": "8c779c96-d93d-4161-b283-019489a36beb",
     "postal": "650375",
     "latitude": 1.3585342,
-    "longitude": 103.7501845
+    "longitude": 103.7501845,
+    "cdc": "Yes"
   },
   {
     "name": "Ha- Jun Korean",
@@ -13857,7 +14084,8 @@
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "543277",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -14143,7 +14371,8 @@
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166",
     "latitude": 1.282919,
-    "longitude": 103.8175866
+    "longitude": 103.8175866,
+    "cdc": "Yes"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -14275,7 +14504,8 @@
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "120451",
     "latitude": 1.3126527,
-    "longitude": 103.7656613
+    "longitude": 103.7656613,
+    "cdc": "Yes"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -14473,7 +14703,8 @@
     "id": "225f398c-03e3-4827-b173-80bb6d36e05d",
     "postal": "310168",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "HAPPY OVEN",
@@ -14484,7 +14715,8 @@
     "id": "2846ebf7-72b1-4e5d-9c17-bbc8d8aea67b",
     "postal": "160040",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "HAPPY OVEN",
@@ -14660,7 +14892,8 @@
     "id": "2eed18ad-e9fd-4f54-a6bd-2a3d0eb2e284",
     "postal": "520801",
     "latitude": 1.3471093,
-    "longitude": 103.938035
+    "longitude": 103.938035,
+    "cdc": "Yes"
   },
   {
     "name": "Hawkerman",
@@ -14693,7 +14926,8 @@
     "id": "71dd3a8d-58c0-487b-940d-b4f72b3a1897",
     "postal": "430012",
     "latitude": 1.3152838,
-    "longitude": 103.895944
+    "longitude": 103.895944,
+    "cdc": "Yes"
   },
   {
     "name": "Hebat Ayam Penyet",
@@ -14715,7 +14949,8 @@
     "id": "d58ab773-a3d6-4233-af63-7d0826a51c2c",
     "postal": "650279",
     "latitude": 1.3480621,
-    "longitude": 103.7574198
+    "longitude": 103.7574198,
+    "cdc": "Maybe"
   },
   {
     "name": "Heritage Grill (S4) @ Koufu Woodlands Health Hospital",
@@ -14737,7 +14972,8 @@
     "id": "610c7381-dc79-4cc9-805d-209444843fac",
     "postal": "680818",
     "latitude": 1.3779671,
-    "longitude": 103.7490568
+    "longitude": 103.7490568,
+    "cdc": "Yes"
   },
   {
     "name": "High Kee BBQ Seafood (S11) @ East Coast Lagoon Food Village",
@@ -14869,7 +15105,8 @@
     "id": "c422646d-70a5-49a6-b466-c0b81c21b6b0",
     "postal": "737859",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Hjh Maimunah Mini (S5)@Koufu HQ Foodcourt",
@@ -14880,7 +15117,8 @@
     "id": "b44d81f3-957c-4226-91d9-2bc214f72d12",
     "postal": "737859",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "HJH MAIMUNAH RESTAURANT",
@@ -14979,7 +15217,8 @@
     "id": "9ae01a33-9546-4777-b660-867da40099fb",
     "postal": "168898",
     "latitude": 1.2848847,
-    "longitude": 103.8323619
+    "longitude": 103.8323619,
+    "cdc": "Yes"
   },
   {
     "name": "Hong kong Cafe @ Bistro Box NUS",
@@ -15045,7 +15284,8 @@
     "id": "c5fbda39-fa78-44a8-8fbb-f4ff8a100d24",
     "postal": "469662",
     "latitude": 1.326735,
-    "longitude": 103.9318058
+    "longitude": 103.9318058,
+    "cdc": "Yes"
   },
   {
     "name": "Hong Le Korean Cuisine (S7) @ Cantine Pasir Ris Mall",
@@ -15177,7 +15417,8 @@
     "id": "581d2f05-8b93-4b32-a54b-22fea6e11058",
     "postal": "540279",
     "latitude": 1.386242,
-    "longitude": 103.8930497
+    "longitude": 103.8930497,
+    "cdc": "Maybe"
   },
   {
     "name": "HOT PAN SIZZLER (S9) @ Kopitiam Corner Vista Point",
@@ -15188,7 +15429,8 @@
     "id": "1a0d2812-d451-4a60-b311-d5e9e79ad7c5",
     "postal": "730548",
     "latitude": 1.4307736,
-    "longitude": 103.7940509
+    "longitude": 103.7940509,
+    "cdc": "Yes"
   },
   {
     "name": "Hotdogs & Drinks @ Adventure Cove Waterpark (MLP-RWS)",
@@ -15265,7 +15507,8 @@
     "id": "27064161-5d33-4fd6-abf9-883f78f22c49",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "HOW'S CATERING",
@@ -15485,7 +15728,8 @@
     "id": "2f81a582-bfbd-42c4-9bd6-ecf2a9ab16b6",
     "postal": "760110",
     "latitude": 1.4333947,
-    "longitude": 103.8292719
+    "longitude": 103.8292719,
+    "cdc": "Yes"
   },
   {
     "name": "Ice Cream Chefs",
@@ -15683,7 +15927,8 @@
     "id": "4b0c08b5-cdd9-43f4-b1f4-0e414b3a0f74",
     "postal": "640456",
     "latitude": 1.3506239,
-    "longitude": 103.7198159
+    "longitude": 103.7198159,
+    "cdc": "Maybe"
   },
   {
     "name": "INDIAN FOOD (S6) @ 89.7 SUPPER CLUB",
@@ -15694,7 +15939,8 @@
     "id": "65abd64f-fd1d-4d6f-8b21-842fe3a661a0",
     "postal": "500005",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Indian Food @ Enak Enak",
@@ -16035,7 +16281,8 @@
     "id": "899e6af1-dcbf-4294-95d0-ab990985c098",
     "postal": "680475",
     "latitude": 1.3777839,
-    "longitude": 103.7388825
+    "longitude": 103.7388825,
+    "cdc": "Yes"
   },
   {
     "name": "Japanese & Korean (S2) @ Koufu Sun Plaza",
@@ -16068,7 +16315,8 @@
     "id": "fea2ae17-646e-497f-89de-b586901f754c",
     "postal": "486047",
     "latitude": 1.3348948,
-    "longitude": 103.9546163
+    "longitude": 103.9546163,
+    "cdc": "Yes"
   },
   {
     "name": "JAPANESE COUNTER @ CAROUSEL",
@@ -16222,7 +16470,8 @@
     "id": "18c231ca-ca18-4601-a054-494c8c5476a1",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "JIAN FA SEAFOOD BBQ",
@@ -16233,7 +16482,8 @@
     "id": "847d1b68-9d56-49ee-bf7c-c7318d0528d2",
     "postal": "229495",
     "latitude": 1.3120271,
-    "longitude": 103.8396446
+    "longitude": 103.8396446,
+    "cdc": "Yes"
   },
   {
     "name": "Jing House Western Cuisine",
@@ -16255,7 +16505,8 @@
     "id": "b860f03f-ac6b-441e-84cd-98a155d9724f",
     "postal": "510258",
     "latitude": 1.3670929,
-    "longitude": 103.9647716
+    "longitude": 103.9647716,
+    "cdc": "Maybe"
   },
   {
     "name": "Jing House Yong Tau Foo (S8) @ Koufu Tampines Mart",
@@ -16354,7 +16605,8 @@
     "id": "be28eb68-4cc1-4791-a42c-e2b8737ceae3",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "JK EXCELLENT FOOD PTE. LTD.",
@@ -16574,7 +16826,8 @@
     "id": "ecbd899d-1f5e-4d3a-981f-e0e707401aec",
     "postal": "730548",
     "latitude": 1.4307736,
-    "longitude": 103.7940509
+    "longitude": 103.7940509,
+    "cdc": "Yes"
   },
   {
     "name": "JOO CHIAT FOOD STATION @ ASIAN MARKET CAFE",
@@ -16761,7 +17014,8 @@
     "id": "af43da9f-fa94-431c-aa81-67c3bc97a47b",
     "postal": "730900",
     "latitude": 1.4350481,
-    "longitude": 103.786801
+    "longitude": 103.786801,
+    "cdc": "Yes"
   },
   {
     "name": "KAFFE & TOAST",
@@ -16772,7 +17026,8 @@
     "id": "bf19dd23-8f34-4621-88b5-aacf84905fe9",
     "postal": "730900",
     "latitude": 1.4350481,
-    "longitude": 103.786801
+    "longitude": 103.786801,
+    "cdc": "Yes"
   },
   {
     "name": "KAFFE & TOAST",
@@ -16904,7 +17159,8 @@
     "id": "6f83d29c-3404-4731-94f3-fc274e0acb07",
     "postal": "650376",
     "latitude": 1.3585403,
-    "longitude": 103.749428
+    "longitude": 103.749428,
+    "cdc": "Maybe"
   },
   {
     "name": "Kamala Express (S3) @ Kedai Kopi 108 Ang Mo Kio",
@@ -16926,7 +17182,8 @@
     "id": "11d3daed-bf8b-4fc5-93cd-42f40a5e8566",
     "postal": "210662",
     "latitude": 1.3063171,
-    "longitude": 103.8502323
+    "longitude": 103.8502323,
+    "cdc": "Yes"
   },
   {
     "name": "Kampong Delights Mini Wok (S2)@One Two Eat Heartbeat Bedok",
@@ -16948,7 +17205,8 @@
     "id": "00fa42dd-73a2-41b2-8548-a2b186750cd1",
     "postal": "649487",
     "latitude": 1.3490676,
-    "longitude": 103.7028829
+    "longitude": 103.7028829,
+    "cdc": "Yes"
   },
   {
     "name": "Kampong House Mini Wok (R5))@Food More Jurong Super Bowl",
@@ -17047,7 +17305,8 @@
     "id": "6b056e75-9556-462d-b622-72192bb6141e",
     "postal": "680475",
     "latitude": 1.3777839,
-    "longitude": 103.7388825
+    "longitude": 103.7388825,
+    "cdc": "Yes"
   },
   {
     "name": "Kawan bowl scrambled egg rice (S26) @ Kopitiam Anchorvale Village.",
@@ -17058,7 +17317,8 @@
     "id": "80365507-9fc0-49f0-bac0-68ccd3b5ecd8",
     "postal": "540339",
     "latitude": 1.396769,
-    "longitude": 103.8884658
+    "longitude": 103.8884658,
+    "cdc": "Yes"
   },
   {
     "name": "Kawan Bowl Scrambled Egg Rice (S3) @ Cantine Pasir Ris Mall",
@@ -17091,7 +17351,8 @@
     "id": "f8d2372a-8c62-4ee5-9b39-28d5f8e280c5",
     "postal": "739276",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "KAWAN KITCHEN",
@@ -17498,7 +17759,8 @@
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "543277",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -17575,7 +17837,8 @@
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "730888",
     "latitude": 1.4377962,
-    "longitude": 103.7952803
+    "longitude": 103.7952803,
+    "cdc": "Yes"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -17817,7 +18080,8 @@
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "521823",
     "latitude": 1.3489686,
-    "longitude": 103.9336032
+    "longitude": 103.9336032,
+    "cdc": "Maybe"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -18598,7 +18862,8 @@
     "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
     "postal": "731678",
     "latitude": 1.4404625,
-    "longitude": 103.8016146
+    "longitude": 103.8016146,
+    "cdc": "Yes"
   },
   {
     "name": "KOPI & TARTS",
@@ -18664,7 +18929,8 @@
     "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "KOPI & TEH @ HP INC (Managed by Sodexo Singapore Pte Ltd)",
@@ -18818,7 +19084,8 @@
     "id": "7ebf6d71-a92a-45c4-bf79-3627f36c24fe",
     "postal": "520820",
     "latitude": 1.3479835,
-    "longitude": 103.9361751
+    "longitude": 103.9361751,
+    "cdc": "Yes"
   },
   {
     "name": "Krispy Kreme",
@@ -19082,7 +19349,8 @@
     "id": "aaff7ea0-5d5c-4c48-a11b-e7201dfeac4e",
     "postal": "081006",
     "latitude": 1.2766229,
-    "longitude": 103.8431576
+    "longitude": 103.8431576,
+    "cdc": "Yes"
   },
   {
     "name": "Kuma-chan Onsen",
@@ -19115,7 +19383,8 @@
     "id": "014a1322-9e46-4727-825e-2b6c72164db7",
     "postal": "500004",
     "latitude": 1.3885252,
-    "longitude": 103.9875179
+    "longitude": 103.9875179,
+    "cdc": "Yes"
   },
   {
     "name": "Kunyah Bites (S1) @ MOUNTBATTEN VOCATIONAL SCHOOL Canteen",
@@ -19225,7 +19494,8 @@
     "id": "d01a7743-1834-4a47-8622-a8c26a42d4f1",
     "postal": "760294",
     "latitude": 1.4364371,
-    "longitude": 103.8370937
+    "longitude": 103.8370937,
+    "cdc": "Yes"
   },
   {
     "name": "LAVISH DINE CATERING PTE LTD",
@@ -19357,7 +19627,8 @@
     "id": "32e87370-7eca-435f-8347-201c90067085",
     "postal": "460084",
     "latitude": 1.331922,
-    "longitude": 103.9396221
+    "longitude": 103.9396221,
+    "cdc": "Yes"
   },
   {
     "name": "LEMONGRASS",
@@ -19368,7 +19639,8 @@
     "id": "2a64af5a-cb82-4ad5-afc1-1a18b18eeefc",
     "postal": "522625",
     "latitude": 1.3624713,
-    "longitude": 103.9405889
+    "longitude": 103.9405889,
+    "cdc": "Yes"
   },
   {
     "name": "LEMONGRASS",
@@ -19379,7 +19651,8 @@
     "id": "7f865958-75bd-4999-94f3-ec9c2fed9dd5",
     "postal": "530476",
     "latitude": 1.3773967,
-    "longitude": 103.9037051
+    "longitude": 103.9037051,
+    "cdc": "Yes"
   },
   {
     "name": "LEVEL 3 KITCHEN@SUNTEC SINGAPORE CONVENTION & EXHIBITION CENTRE",
@@ -19478,7 +19751,8 @@
     "id": "1d22a4ae-fca8-4e30-8553-b076d30563ff",
     "postal": "319061",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "LKN Cafe",
@@ -19533,7 +19807,8 @@
     "id": "6abb018c-5987-4386-851e-74674ce7b135",
     "postal": "402001",
     "latitude": 1.3167212,
-    "longitude": 103.8982175
+    "longitude": 103.8982175,
+    "cdc": "Maybe"
   },
   {
     "name": "Local Delights @ Mr Teh Tarik Eating House",
@@ -19544,7 +19819,8 @@
     "id": "69f17bb1-88de-48da-ba1d-61ba8f1fe444",
     "postal": "731306",
     "latitude": 1.4300999,
-    "longitude": 103.7751124
+    "longitude": 103.7751124,
+    "cdc": "Maybe"
   },
   {
     "name": "Local Delights/My Humble Chef (S5) @ Mr Teh Tarik Eating House",
@@ -19555,7 +19831,8 @@
     "id": "49f8491c-8cac-41ab-9498-b49b734fb111",
     "postal": "640456",
     "latitude": 1.3506239,
-    "longitude": 103.7198159
+    "longitude": 103.7198159,
+    "cdc": "Maybe"
   },
   {
     "name": "LOCO LOCO",
@@ -19841,7 +20118,8 @@
     "id": "b3a04ab9-61cc-4b0f-9dfb-6f9d098e4855",
     "postal": "760294",
     "latitude": 1.4364371,
-    "longitude": 103.8370937
+    "longitude": 103.8370937,
+    "cdc": "Yes"
   },
   {
     "name": "Ma La Tang (MR6) @ Koufu Outram Community Hospital",
@@ -20281,7 +20559,8 @@
     "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
     "postal": "820681",
     "latitude": 1.4028084,
-    "longitude": 103.9132017
+    "longitude": 103.9132017,
+    "cdc": "Yes"
   },
   {
     "name": "Maki-San",
@@ -20336,7 +20615,8 @@
     "id": "673adfd7-08c1-4297-ace8-596ce887055d",
     "postal": "469662",
     "latitude": 1.326735,
-    "longitude": 103.9318058
+    "longitude": 103.9318058,
+    "cdc": "Yes"
   },
   {
     "name": "Mala Wok (S28) @ Bedok Food Centre",
@@ -20732,7 +21012,8 @@
     "id": "65d2417d-c70b-421c-8067-800f6f95d3aa",
     "postal": "821231",
     "latitude": 1.4022613,
-    "longitude": 103.8919671
+    "longitude": 103.8919671,
+    "cdc": "Yes"
   },
   {
     "name": "MAMANDA  The Dining Room",
@@ -20853,7 +21134,8 @@
     "id": "836d3aa8-f3dc-491a-a431-4804613ddb00",
     "postal": "538719",
     "latitude": 1.3793655,
-    "longitude": 103.8879078
+    "longitude": 103.8879078,
+    "cdc": "Yes"
   },
   {
     "name": "MANA LAGI",
@@ -20864,7 +21146,8 @@
     "id": "836d3aa8-f3dc-491a-a431-4804613ddb00",
     "postal": "520477",
     "latitude": 1.3609226,
-    "longitude": 103.95242
+    "longitude": 103.95242,
+    "cdc": "Yes"
   },
   {
     "name": "MANI'S BANANA LEAF",
@@ -20952,7 +21235,8 @@
     "id": "432be6c6-1775-4013-b345-13b9145f9b1b",
     "postal": "737859",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "MARRYBROWN",
@@ -20985,7 +21269,8 @@
     "id": "24cc02d0-14b0-470f-a5b1-1500fd10d304",
     "postal": "461059",
     "latitude": 1.3239637,
-    "longitude": 103.9407314
+    "longitude": 103.9407314,
+    "cdc": "Yes"
   },
   {
     "name": "MATA THAI",
@@ -20996,7 +21281,8 @@
     "id": "8206c33d-ed55-40dc-91c0-0a37243d6ea1",
     "postal": "470632",
     "latitude": 1.3324526,
-    "longitude": 103.9140778
+    "longitude": 103.9140778,
+    "cdc": "Yes"
   },
   {
     "name": "Mata Thai (MR4) @ Yong Li Coffee Station 105 Canberra",
@@ -21018,7 +21304,8 @@
     "id": "f548c690-86bb-4e0b-8387-0bdd94013739",
     "postal": "756973",
     "latitude": 1.4481456,
-    "longitude": 103.823179
+    "longitude": 103.823179,
+    "cdc": "Yes"
   },
   {
     "name": "MAYSON BAKERY PTE LTD",
@@ -22503,7 +22790,8 @@
     "id": "a63f3a30-ce61-42ab-ab89-1398921d881d",
     "postal": "671524",
     "latitude": 1.3853559,
-    "longitude": 103.7661736
+    "longitude": 103.7661736,
+    "cdc": "Yes"
   },
   {
     "name": "MEL'S DRIVE IN @ UNIVERSAL STUDIOS SINGAPORE (RWS)",
@@ -22536,7 +22824,8 @@
     "id": "41323452-8f3a-41c0-b311-0ecd8360014b",
     "postal": "730676",
     "latitude": 1.4398326,
-    "longitude": 103.8006892
+    "longitude": 103.8006892,
+    "cdc": "Yes"
   },
   {
     "name": "Mgt Canteen @Sembawang Seatrium(mngd by Catering Solutions P/L)",
@@ -22668,7 +22957,8 @@
     "id": "99a54a1f-23f2-40f0-964c-c376e32ebe23",
     "postal": "460213",
     "latitude": 1.3262772,
-    "longitude": 103.932575
+    "longitude": 103.932575,
+    "cdc": "Maybe"
   },
   {
     "name": "Minum Kopi Bakery",
@@ -22679,7 +22969,8 @@
     "id": "241c6bc0-dd6b-4629-a165-175645066f4b",
     "postal": "460213",
     "latitude": 1.3262772,
-    "longitude": 103.932575
+    "longitude": 103.932575,
+    "cdc": "Maybe"
   },
   {
     "name": "Mix Economic Rice (S1) @ Quad Cafe",
@@ -22712,7 +23003,8 @@
     "id": "0dc08607-85f9-4347-bb00-98fc570c5a16",
     "postal": "229495",
     "latitude": 1.3120271,
-    "longitude": 103.8396446
+    "longitude": 103.8396446,
+    "cdc": "Yes"
   },
   {
     "name": "Moji Bakery",
@@ -23086,7 +23378,8 @@
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "730676",
     "latitude": 1.4398326,
-    "longitude": 103.8006892
+    "longitude": 103.8006892,
+    "cdc": "Yes"
   },
   {
     "name": "MR BEAN",
@@ -23284,7 +23577,8 @@
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "670445",
     "latitude": 1.3836117,
-    "longitude": 103.7707432
+    "longitude": 103.7707432,
+    "cdc": "Yes"
   },
   {
     "name": "MR BEAN",
@@ -23394,7 +23688,8 @@
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "529286",
     "latitude": 1.3543836,
-    "longitude": 103.9602606
+    "longitude": 103.9602606,
+    "cdc": "Yes"
   },
   {
     "name": "MR BEAN",
@@ -23416,7 +23711,8 @@
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "310500",
     "latitude": 1.3330338,
-    "longitude": 103.8472964
+    "longitude": 103.8472964,
+    "cdc": "Yes"
   },
   {
     "name": "MR BEAN",
@@ -23493,7 +23789,8 @@
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "540118",
     "latitude": 1.3852902,
-    "longitude": 103.9017192
+    "longitude": 103.9017192,
+    "cdc": "Yes"
   },
   {
     "name": "MR BEAN",
@@ -23856,7 +24153,8 @@
     "id": "d73edc12-0c88-45d6-af15-663c32018789",
     "postal": "561226",
     "latitude": 1.3674911,
-    "longitude": 103.8392766
+    "longitude": 103.8392766,
+    "cdc": "Yes"
   },
   {
     "name": "MR UNCLE",
@@ -23933,7 +24231,8 @@
     "id": "dd913190-c4d6-47e6-ad23-9befe02069d2",
     "postal": "823308",
     "latitude": 1.4083613,
-    "longitude": 103.8990908
+    "longitude": 103.8990908,
+    "cdc": "Maybe"
   },
   {
     "name": "Mutiara Laut Seafood (S2) @ Kimly Coffeeshop Marsiling",
@@ -23944,7 +24243,8 @@
     "id": "4c0ad61e-2f88-4b63-9754-9d20e5d246e4",
     "postal": "733187",
     "latitude": 1.4381323,
-    "longitude": 103.7746806
+    "longitude": 103.7746806,
+    "cdc": "Yes"
   },
   {
     "name": "Mutiara Laut Seafood (S6) @ 7 Stars Woodlands",
@@ -23988,7 +24288,8 @@
     "id": "bf3be110-a48b-4b51-8388-744f2bca5819",
     "postal": "690127",
     "latitude": 1.3576257,
-    "longitude": 103.7342034
+    "longitude": 103.7342034,
+    "cdc": "Yes"
   },
   {
     "name": "My Briyani House @ Mr Teh Tarik",
@@ -24065,7 +24366,8 @@
     "id": "48a245e9-5857-42b8-8adf-22e149c261f6",
     "postal": "730676",
     "latitude": 1.4398326,
-    "longitude": 103.8006892
+    "longitude": 103.8006892,
+    "cdc": "Yes"
   },
   {
     "name": "My Nasi Ayam",
@@ -24109,7 +24411,8 @@
     "id": "62cc2c4f-0b17-4027-815b-7c8e667d1517",
     "postal": "730900",
     "latitude": 1.4350481,
-    "longitude": 103.786801
+    "longitude": 103.786801,
+    "cdc": "Yes"
   },
   {
     "name": "MY SAAP SAAP THAI",
@@ -24560,7 +24863,8 @@
     "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "Nene Chicken (S1) @ Yong Li Coffee Station Bedok",
@@ -24571,7 +24875,8 @@
     "id": "4df8c0b9-026e-44ae-afee-9618b82454b6",
     "postal": "460136",
     "latitude": 1.3281453,
-    "longitude": 103.9352456
+    "longitude": 103.9352456,
+    "cdc": "Maybe"
   },
   {
     "name": "NENE CHICKEN (S10) @ KIM SAN LENG COFFEESHOP",
@@ -24582,7 +24887,8 @@
     "id": "1eb63fd6-a7b3-406e-84aa-bec56a4a57ee",
     "postal": "600130",
     "latitude": 1.3349793,
-    "longitude": 103.7392462
+    "longitude": 103.7392462,
+    "cdc": "Maybe"
   },
   {
     "name": "Nenek Recipe",
@@ -24604,7 +24910,8 @@
     "id": "c00e82de-3643-44db-bf9c-f811de4a8838",
     "postal": "649487",
     "latitude": 1.3490676,
-    "longitude": 103.7028829
+    "longitude": 103.7028829,
+    "cdc": "Yes"
   },
   {
     "name": "Nenek Recipe Indonesian Grill & BBQ (MR2) @ Food More Jurong",
@@ -24659,7 +24966,8 @@
     "id": "3c8f5a39-400a-439c-9dda-32d34c4fbdd0",
     "postal": "520462",
     "latitude": 1.3591481,
-    "longitude": 103.9551506
+    "longitude": 103.9551506,
+    "cdc": "Yes"
   },
   {
     "name": "NEW HAWA RESTAURANT",
@@ -24670,7 +24978,8 @@
     "id": "3c8f5a39-400a-439c-9dda-32d34c4fbdd0",
     "postal": "460537",
     "latitude": 1.3320129,
-    "longitude": 103.923692
+    "longitude": 103.923692,
+    "cdc": "Yes"
   },
   {
     "name": "NEW HAWA RESTAURANT",
@@ -24747,7 +25056,8 @@
     "id": "2d6cf3bb-6ca6-49b6-8bdc-9a63a5b076fb",
     "postal": "640504",
     "latitude": 1.3496583,
-    "longitude": 103.7189225
+    "longitude": 103.7189225,
+    "cdc": "Yes"
   },
   {
     "name": "NIKU IKU",
@@ -24802,7 +25112,8 @@
     "id": "3143c847-69f0-4e71-b52e-1505a857d994",
     "postal": "730900",
     "latitude": 1.4350481,
-    "longitude": 103.786801
+    "longitude": 103.786801,
+    "cdc": "Yes"
   },
   {
     "name": "NO VIRTUAL BRANDS",
@@ -24901,7 +25212,8 @@
     "id": "833b174f-6029-4b56-8360-fb3f64e8c6d1",
     "postal": "401001",
     "latitude": 1.3212895,
-    "longitude": 103.9026839
+    "longitude": 103.9026839,
+    "cdc": "Maybe"
   },
   {
     "name": "Nourish Table @ Fusion Spoon",
@@ -25077,7 +25389,8 @@
     "id": "1107d60f-15e6-416a-abb4-022ced495dbb",
     "postal": "560721",
     "latitude": 1.3723624,
-    "longitude": 103.8478916
+    "longitude": 103.8478916,
+    "cdc": "Maybe"
   },
   {
     "name": "OK CHICKEN RICE & HUMFULL PRAWN LAKSA (MR2) @ Koufu HQ",
@@ -25088,7 +25401,8 @@
     "id": "f7f7d54f-4355-4e92-bd6e-044745a325f3",
     "postal": "737859",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "OK CHICKEN RICE & HUMFULL PRAWN LAKSA (MR2) @ YongLiCoffeeStation",
@@ -25099,7 +25413,8 @@
     "id": "1620cfa1-29c2-482b-9069-2e0ffa0fb120",
     "postal": "401001",
     "latitude": 1.3212895,
-    "longitude": 103.9026839
+    "longitude": 103.9026839,
+    "cdc": "Maybe"
   },
   {
     "name": "OK CHICKEN RICE & HUMFULL PRAWN LAKSA (MR2)@Yong Li Coffee Station",
@@ -25121,7 +25436,8 @@
     "id": "1541c99d-0ab8-4df7-9c34-0c14f78eef4d",
     "postal": "650323",
     "latitude": 1.3612962,
-    "longitude": 103.7482
+    "longitude": 103.7482,
+    "cdc": "Maybe"
   },
   {
     "name": "Ok Chicken Rice & Humfull Prawn Laksa (S3) @ Al Majlis Yishun",
@@ -25132,7 +25448,8 @@
     "id": "a75b9129-1671-4edd-9586-3ab64f98a84d",
     "postal": "760513",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Ok Chicken Rice & Humfull Prawn Laksa (S4) @ Staff Canteen HP",
@@ -25154,7 +25471,8 @@
     "id": "4b88461d-1377-4532-b8b7-452d64a2dd48",
     "postal": "530932",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Ok Chicken Rice & Humfull Prawn Laksa (S5) @ Rasa Rasa Teck Whye",
@@ -25176,7 +25494,8 @@
     "id": "bfcd23de-e421-4939-b69c-a170c5669595",
     "postal": "161051",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Ok Chicken Rice & Humfull Prawn Laksa (S7) @ Broadway Bedok",
@@ -25187,7 +25506,8 @@
     "id": "6823d93b-4234-472d-908d-a5b48410a6e6",
     "postal": "470760",
     "latitude": 1.336479,
-    "longitude": 103.9352343
+    "longitude": 103.9352343,
+    "cdc": "Maybe"
   },
   {
     "name": "OK CHICKEN RICE & HUMFULL PRAWN LAKSA (S7) @ Food Village",
@@ -25198,7 +25518,8 @@
     "id": "bec32693-a936-49d8-877f-ab177d4823ef",
     "postal": "821660",
     "latitude": 1.4026123,
-    "longitude": 103.9165643
+    "longitude": 103.9165643,
+    "cdc": "Maybe"
   },
   {
     "name": "Ok Chicken Rice & Humfull Prawn Laksa(S6)@Broadway Marsiling Lane",
@@ -25209,7 +25530,8 @@
     "id": "2dbb7936-51fd-4677-9b94-bd4441a81a50",
     "postal": "730019",
     "latitude": 1.4432798,
-    "longitude": 103.7772963
+    "longitude": 103.7772963,
+    "cdc": "Yes"
   },
   {
     "name": "OK CHICKEN RICE&HUMFULL PRAWN LAKSA (MR8) @ Meet 55 Lengkok Bahru",
@@ -25231,7 +25553,8 @@
     "id": "f2dfbb07-348d-4f5a-ba74-ad4c23a0b022",
     "postal": "600252",
     "latitude": 1.3431265,
-    "longitude": 103.7379361
+    "longitude": 103.7379361,
+    "cdc": "Maybe"
   },
   {
     "name": "OK CHICKEN RICE/HUMFULL PRAWN LAKSA (S5) @ Foodgle 308C Punggol Walk",
@@ -25242,7 +25565,8 @@
     "id": "85c0d49d-87f9-4e1a-a912-8f2936b0cf6b",
     "postal": "823308",
     "latitude": 1.4083613,
-    "longitude": 103.8990908
+    "longitude": 103.8990908,
+    "cdc": "Maybe"
   },
   {
     "name": "Old Bibik's Peranakan Kitchen",
@@ -25946,7 +26270,8 @@
     "id": "2d05e174-a995-438d-9385-07285141becd",
     "postal": "730676",
     "latitude": 1.4398326,
-    "longitude": 103.8006892
+    "longitude": 103.8006892,
+    "cdc": "Yes"
   },
   {
     "name": "Old Town White Coffee",
@@ -26023,7 +26348,8 @@
     "id": "58178d54-03d8-4fa3-8df0-8a5b1164a47b",
     "postal": "731678",
     "latitude": 1.4404625,
-    "longitude": 103.8016146
+    "longitude": 103.8016146,
+    "cdc": "Yes"
   },
   {
     "name": "OMMAS JAP & KOREAN (S15) @  KIM SAN LENG 417 YISHUN",
@@ -26034,7 +26360,8 @@
     "id": "6a2be707-af30-47c7-870d-ed54653b5a49",
     "postal": "760417",
     "latitude": 1.4243778,
-    "longitude": 103.8463265
+    "longitude": 103.8463265,
+    "cdc": "Maybe"
   },
   {
     "name": "OMMAS JAP & KOREAN (S3) @ KOFFEE T:ME SKVILLE @ DAWSON",
@@ -26045,7 +26372,8 @@
     "id": "c3a2ff9c-0f71-4e35-9ba2-2a2537df4a1e",
     "postal": "141085",
     "latitude": 1.2953842,
-    "longitude": 103.809773
+    "longitude": 103.809773,
+    "cdc": "Maybe"
   },
   {
     "name": "ON & ON DINERS PTE LTD",
@@ -26199,7 +26527,8 @@
     "id": "51abadd4-6e20-4bcd-b473-f847e8f6c0c4",
     "postal": "600214",
     "latitude": 1.3391132,
-    "longitude": 103.73934
+    "longitude": 103.73934,
+    "cdc": "Maybe"
   },
   {
     "name": "Padi Emas BBQ (S2) @ Padi Emas",
@@ -26210,7 +26539,8 @@
     "id": "e66b42d5-97d2-4c95-bd87-86903d49cdb0",
     "postal": "600214",
     "latitude": 1.3391132,
-    "longitude": 103.73934
+    "longitude": 103.73934,
+    "cdc": "Maybe"
   },
   {
     "name": "Pagi Sore Indonesian Restaurant",
@@ -26287,7 +26617,8 @@
     "id": "2126a923-0488-4c9f-8478-85f5a21e7439",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "PAPA AYAM",
@@ -26309,7 +26640,8 @@
     "id": "3ec4c454-3ee3-42d6-86b9-0efdaad99ca8",
     "postal": "530991",
     "latitude": 1.3842797,
-    "longitude": 103.8815633
+    "longitude": 103.8815633,
+    "cdc": "Yes"
   },
   {
     "name": "Papa Cafe",
@@ -26320,7 +26652,8 @@
     "id": "c320ebaa-36a4-45c6-a2d8-edeafb4c983e",
     "postal": "680533",
     "latitude": 1.392354,
-    "longitude": 103.743339
+    "longitude": 103.743339,
+    "cdc": "Yes"
   },
   {
     "name": "PAPPARICH",
@@ -26419,7 +26752,8 @@
     "id": "c422f53e-316d-4393-a8c1-d074fd81c67e",
     "postal": "758382",
     "latitude": 1.4269187,
-    "longitude": 103.8261321
+    "longitude": 103.8261321,
+    "cdc": "Yes"
   },
   {
     "name": "PARIS VAN JAVA",
@@ -26716,7 +27050,8 @@
     "id": "6dc02f81-d9ea-4cd9-879b-0d9239b917c4",
     "postal": "651432",
     "latitude": 1.3603256,
-    "longitude": 103.7429934
+    "longitude": 103.7429934,
+    "cdc": "Maybe"
   },
   {
     "name": "PATTAYA GARDEN RESTAURANT & CATERING",
@@ -27266,7 +27601,8 @@
     "id": "ace54d99-9ad6-45aa-955f-113e4668bde7",
     "postal": "229495",
     "latitude": 1.3120271,
-    "longitude": 103.8396446
+    "longitude": 103.8396446,
+    "cdc": "Yes"
   },
   {
     "name": "PITA BAKERY PTE LTD",
@@ -27354,7 +27690,8 @@
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "730888",
     "latitude": 1.4377962,
-    "longitude": 103.7952803
+    "longitude": 103.7952803,
+    "cdc": "Yes"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -27365,7 +27702,8 @@
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "730306",
     "latitude": 1.4302025,
-    "longitude": 103.7745159
+    "longitude": 103.7745159,
+    "cdc": "Maybe"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -28344,7 +28682,8 @@
     "id": "afc69ab9-f6d8-4838-8736-5f4b38d9b4af",
     "postal": "820681",
     "latitude": 1.4028084,
-    "longitude": 103.9132017
+    "longitude": 103.9132017,
+    "cdc": "Yes"
   },
   {
     "name": "PONDOK JAWA",
@@ -28718,7 +29057,8 @@
     "id": "d604f65c-f0c2-43a9-93b8-44b76300fec4",
     "postal": "690119",
     "latitude": 1.3568733,
-    "longitude": 103.7348951
+    "longitude": 103.7348951,
+    "cdc": "Yes"
   },
   {
     "name": "Prata Raya",
@@ -28861,7 +29201,8 @@
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "650272",
     "latitude": 1.3486184,
-    "longitude": 103.7576823
+    "longitude": 103.7576823,
+    "cdc": "Yes"
   },
   {
     "name": "PRIMADELI",
@@ -28872,7 +29213,8 @@
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "650272",
     "latitude": 1.3486184,
-    "longitude": 103.7576823
+    "longitude": 103.7576823,
+    "cdc": "Yes"
   },
   {
     "name": "PRIMADELI",
@@ -28971,7 +29313,8 @@
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "610399",
     "latitude": 1.3345452,
-    "longitude": 103.7203882
+    "longitude": 103.7203882,
+    "cdc": "Maybe"
   },
   {
     "name": "PRIMADELI",
@@ -28982,7 +29325,8 @@
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "640494",
     "latitude": 1.349489,
-    "longitude": 103.7249009
+    "longitude": 103.7249009,
+    "cdc": "Maybe"
   },
   {
     "name": "PRIMADELI",
@@ -28993,7 +29337,8 @@
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "640494",
     "latitude": 1.349489,
-    "longitude": 103.7249009
+    "longitude": 103.7249009,
+    "cdc": "Maybe"
   },
   {
     "name": "PRIMADELI",
@@ -29015,7 +29360,8 @@
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "520828",
     "latitude": 1.348945,
-    "longitude": 103.9345493
+    "longitude": 103.9345493,
+    "cdc": "Yes"
   },
   {
     "name": "PRIMADELI",
@@ -29026,7 +29372,8 @@
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "520476",
     "latitude": 1.360868,
-    "longitude": 103.9535451
+    "longitude": 103.9535451,
+    "cdc": "Maybe"
   },
   {
     "name": "PRIMADELI",
@@ -29048,7 +29395,8 @@
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "520828",
     "latitude": 1.348945,
-    "longitude": 103.9345493
+    "longitude": 103.9345493,
+    "cdc": "Yes"
   },
   {
     "name": "PRIMADELI",
@@ -29070,7 +29418,8 @@
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "520476",
     "latitude": 1.360868,
-    "longitude": 103.9535451
+    "longitude": 103.9535451,
+    "cdc": "Maybe"
   },
   {
     "name": "PRIMADELI",
@@ -29092,7 +29441,8 @@
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "310177",
     "latitude": 1.3337519,
-    "longitude": 103.8478347
+    "longitude": 103.8478347,
+    "cdc": "Yes"
   },
   {
     "name": "PRIMADELI",
@@ -29158,7 +29508,8 @@
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "820168",
     "latitude": 1.3941997,
-    "longitude": 103.9130494
+    "longitude": 103.9130494,
+    "cdc": "Yes"
   },
   {
     "name": "PRIMADELI",
@@ -29169,7 +29520,8 @@
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "820168",
     "latitude": 1.3941997,
-    "longitude": 103.9130494
+    "longitude": 103.9130494,
+    "cdc": "Yes"
   },
   {
     "name": "Providence Cafe & Bakery",
@@ -29235,7 +29587,8 @@
     "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
     "postal": "310234",
     "latitude": 1.3385962,
-    "longitude": 103.8579651
+    "longitude": 103.8579651,
+    "cdc": "Yes"
   },
   {
     "name": "Puffs  Palace",
@@ -29367,7 +29720,8 @@
     "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "QI JI",
@@ -29411,7 +29765,8 @@
     "id": "de5efa2b-79fc-4560-b03e-d68513f82b8f",
     "postal": "730888",
     "latitude": 1.4377962,
-    "longitude": 103.7952803
+    "longitude": 103.7952803,
+    "cdc": "Yes"
   },
   {
     "name": "Quench",
@@ -29466,7 +29821,8 @@
     "id": "fcc38ede-2bbe-4406-bbe5-d5ad0733fa57",
     "postal": "681668",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Rasa Bagus Restoran",
@@ -29477,7 +29833,8 @@
     "id": "a44e4758-f61a-4ef4-8025-3c0f3416ce72",
     "postal": "821654",
     "latitude": 1.3970642,
-    "longitude": 103.9211201
+    "longitude": 103.9211201,
+    "cdc": "Yes"
   },
   {
     "name": "RASA CATERING PTE. LTD.",
@@ -29543,7 +29900,8 @@
     "id": "9b0d7a6e-8ea5-4d38-93e7-11aa24656d18",
     "postal": "120449",
     "latitude": 1.3138314,
-    "longitude": 103.7647772
+    "longitude": 103.7647772,
+    "cdc": "Maybe"
   },
   {
     "name": "Rasa Sayang Rasa Sayang",
@@ -29576,7 +29934,8 @@
     "id": "91523f69-49a3-4d29-9bcb-10df86ebad95",
     "postal": "648202",
     "latitude": 1.3412728,
-    "longitude": 103.6972337
+    "longitude": 103.6972337,
+    "cdc": "Yes"
   },
   {
     "name": "Rasa Sindo (S10) @ Seven Stars",
@@ -29587,7 +29946,8 @@
     "id": "0b83d176-08d6-49ed-b332-20fc571d1e88",
     "postal": "141085",
     "latitude": 1.2953842,
-    "longitude": 103.809773
+    "longitude": 103.809773,
+    "cdc": "Maybe"
   },
   {
     "name": "ReadyMeals@Sheng Siong ITE College Central",
@@ -29774,7 +30134,8 @@
     "id": "73d27efa-b586-4639-baa6-7f96812efbad",
     "postal": "600338",
     "latitude": 1.3501938,
-    "longitude": 103.7312905
+    "longitude": 103.7312905,
+    "cdc": "Yes"
   },
   {
     "name": "Ritz's Kitchen (Kitchen 14) @ Supply Chain City",
@@ -30093,7 +30454,8 @@
     "id": "e5f9acc4-e3b6-4de7-9726-a7ee15c9f6e9",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "Rumah Makan Minang",
@@ -30214,7 +30576,8 @@
     "id": "1da05a48-dd4e-495b-bdb3-7b1198e1f946",
     "postal": "730900",
     "latitude": 1.4350481,
-    "longitude": 103.786801
+    "longitude": 103.786801,
+    "cdc": "Yes"
   },
   {
     "name": "Saffrons",
@@ -30225,7 +30588,8 @@
     "id": "df8e3a57-e695-4700-a6b8-a4c3cfd16802",
     "postal": "408528",
     "latitude": 1.3164688,
-    "longitude": 103.8967942
+    "longitude": 103.8967942,
+    "cdc": "Yes"
   },
   {
     "name": "SAFFRONS FAMILY RESTAURANT",
@@ -30247,7 +30611,8 @@
     "id": "26ebf21b-c8e8-40da-aa57-375c2def0080",
     "postal": "524201",
     "latitude": 1.3521865,
-    "longitude": 103.9536186
+    "longitude": 103.9536186,
+    "cdc": "Yes"
   },
   {
     "name": "SAFFRONS RESTAURANT PTE. LTD.",
@@ -30390,7 +30755,8 @@
     "id": "7bc77553-2f6f-4917-affa-fea075357088",
     "postal": "207667",
     "latitude": 1.3092289,
-    "longitude": 103.8556725
+    "longitude": 103.8556725,
+    "cdc": "Yes"
   },
   {
     "name": "SAKUNTHALA'S RESTAURANT",
@@ -30401,7 +30767,8 @@
     "id": "7bc77553-2f6f-4917-affa-fea075357088",
     "postal": "768020",
     "latitude": 1.4264134,
-    "longitude": 103.8362667
+    "longitude": 103.8362667,
+    "cdc": "Yes"
   },
   {
     "name": "SAKUNTHALA'S RESTAURANT",
@@ -30456,7 +30823,8 @@
     "id": "a3e8fec2-3828-43fc-85de-32ef613fedc3",
     "postal": "601037",
     "latitude": 1.3208353,
-    "longitude": 103.742724
+    "longitude": 103.742724,
+    "cdc": "Yes"
   },
   {
     "name": "SALLY'S",
@@ -31193,7 +31561,8 @@
     "id": "ff9129dc-238e-4753-a168-d43eeb47c894",
     "postal": "544278",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Seafood (S1) @ Rasa Rasa Teck Whye",
@@ -31226,7 +31595,8 @@
     "id": "c9ecfaf7-b489-4836-9d9e-7c6a1da3fe4b",
     "postal": "500005",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Seafood (S4) @ Mr Teh Tarik Eating House",
@@ -31336,7 +31706,8 @@
     "id": "1eb91603-64bb-4709-84ee-2e21a5aac3bf",
     "postal": "310470",
     "latitude": 1.3319736,
-    "longitude": 103.8493503
+    "longitude": 103.8493503,
+    "cdc": "Yes"
   },
   {
     "name": "Secret Recipe International Pte Ltd",
@@ -31380,7 +31751,8 @@
     "id": "e8530be1-d0cc-4f8f-88cf-ae7a5a9e48d9",
     "postal": "208877",
     "latitude": 1.3074069,
-    "longitude": 103.856861
+    "longitude": 103.856861,
+    "cdc": "Yes"
   },
   {
     "name": "Sedap Yong Tau Foo (S8) @ One Two Eat Heartbeat Bedok",
@@ -31479,7 +31851,8 @@
     "id": "af3a0c63-68b0-4d5d-97bf-f96b587b9251",
     "postal": "544829",
     "latitude": 1.3915779,
-    "longitude": 103.8935522
+    "longitude": 103.8935522,
+    "cdc": "Yes"
   },
   {
     "name": "Seni Sattisorru Indian Claypot Kitchen",
@@ -31666,7 +32039,8 @@
     "id": "25ddadcc-e566-4aff-a0e1-efe2db5afec9",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "Shami Banana Leaf Delights",
@@ -31919,7 +32293,8 @@
     "id": "5a3df932-5294-4baf-b4df-c6530ba8d8bb",
     "postal": "130028",
     "latitude": 1.3047976,
-    "longitude": 103.7815903
+    "longitude": 103.7815903,
+    "cdc": "Maybe"
   },
   {
     "name": "Siam Kitchen",
@@ -31974,7 +32349,8 @@
     "id": "5f9a7b7d-7410-4fe5-bd08-439317541432",
     "postal": "760675",
     "latitude": 1.4200903,
-    "longitude": 103.8435489
+    "longitude": 103.8435489,
+    "cdc": "Yes"
   },
   {
     "name": "SIMPLY WRAPPS",
@@ -32007,7 +32383,8 @@
     "id": "608b7298-df59-4864-a6da-429a04a2a073",
     "postal": "640456",
     "latitude": 1.3506239,
-    "longitude": 103.7198159
+    "longitude": 103.7198159,
+    "cdc": "Maybe"
   },
   {
     "name": "Sinar Seafood (S12) @ Kedai Kopi 376 BUkit Batok",
@@ -32018,7 +32395,8 @@
     "id": "e9e22574-e9a6-4512-834e-e9aa0fe5b2ab",
     "postal": "650376",
     "latitude": 1.3585403,
-    "longitude": 103.749428
+    "longitude": 103.749428,
+    "cdc": "Maybe"
   },
   {
     "name": "Sinar Seafood (S6) @ Kedai Kopi 108 Ang Mo Kio",
@@ -32051,7 +32429,8 @@
     "id": "a7f452ae-3460-4fd3-aee2-8a8a54132958",
     "postal": "680026",
     "latitude": 1.3776263,
-    "longitude": 103.7557449
+    "longitude": 103.7557449,
+    "cdc": "Yes"
   },
   {
     "name": "Sinaran Seafood(S3) @ LW Eating House",
@@ -32062,7 +32441,8 @@
     "id": "7004a968-a678-4a6f-981a-ad2b763ef095",
     "postal": "680026",
     "latitude": 1.3776263,
-    "longitude": 103.7557449
+    "longitude": 103.7557449,
+    "cdc": "Yes"
   },
   {
     "name": "Singapore Food & Beverage Pte Ltd",
@@ -32128,7 +32508,8 @@
     "id": "fd8852c3-98bd-4d1f-87cc-30d12fb5c59f",
     "postal": "567720",
     "latitude": 1.3775869,
-    "longitude": 103.8563216
+    "longitude": 103.8563216,
+    "cdc": "Maybe"
   },
   {
     "name": "SLURP EXPRESS FISHBALL NOODLES (S9) @ ONETWOEAT HEARTBEAT BEDOK",
@@ -32370,7 +32751,8 @@
     "id": "e589010b-17d5-425e-af3b-fc61d5cc3e5f",
     "postal": "469572",
     "latitude": 1.3203692,
-    "longitude": 103.9554895
+    "longitude": 103.9554895,
+    "cdc": "Yes"
   },
   {
     "name": "Soso Hainanese Chicken Rice",
@@ -32447,7 +32829,8 @@
     "id": "0b39f767-5770-4227-bda3-b802daa6a1b0",
     "postal": "731678",
     "latitude": 1.4404625,
-    "longitude": 103.8016146
+    "longitude": 103.8016146,
+    "cdc": "Yes"
   },
   {
     "name": "SPIZE",
@@ -32535,7 +32918,8 @@
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "120106",
     "latitude": 1.3219027,
-    "longitude": 103.7698001
+    "longitude": 103.7698001,
+    "cdc": "Yes"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
@@ -32634,7 +33018,8 @@
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "530681",
     "latitude": 1.3731083,
-    "longitude": 103.8859106
+    "longitude": 103.8859106,
+    "cdc": "Yes"
   },
   {
     "name": "Srisun Express",
@@ -32645,7 +33030,8 @@
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "570509",
     "latitude": 1.3485447,
-    "longitude": 103.8495269
+    "longitude": 103.8495269,
+    "cdc": "Yes"
   },
   {
     "name": "Srisun Express",
@@ -32656,7 +33042,8 @@
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "560407",
     "latitude": 1.3620773,
-    "longitude": 103.8553492
+    "longitude": 103.8553492,
+    "cdc": "Yes"
   },
   {
     "name": "Srisun Express",
@@ -32667,7 +33054,8 @@
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "650132",
     "latitude": 1.3505034,
-    "longitude": 103.7456954
+    "longitude": 103.7456954,
+    "cdc": "Yes"
   },
   {
     "name": "Srisun Express",
@@ -32678,7 +33066,8 @@
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "520474",
     "latitude": 1.3599432,
-    "longitude": 103.9529967
+    "longitude": 103.9529967,
+    "cdc": "Yes"
   },
   {
     "name": "Srisun Express",
@@ -32700,7 +33089,8 @@
     "id": "c1df5ce1-009f-40aa-bac0-b54c7c67af60",
     "postal": "640651",
     "latitude": 1.3372123,
-    "longitude": 103.6972252
+    "longitude": 103.6972252,
+    "cdc": "Maybe"
   },
   {
     "name": "Srisun Prata.com",
@@ -32711,7 +33101,8 @@
     "id": "c1df5ce1-009f-40aa-bac0-b54c7c67af60",
     "postal": "640964",
     "latitude": 1.3419973,
-    "longitude": 103.6926474
+    "longitude": 103.6926474,
+    "cdc": "Maybe"
   },
   {
     "name": "Srisun Prata.com",
@@ -33195,7 +33586,8 @@
     "id": "b8bb9a24-0fae-484f-991b-60c53486c0ec",
     "postal": "636866",
     "latitude": 1.3546135,
-    "longitude": 103.6840484
+    "longitude": 103.6840484,
+    "cdc": "Yes"
   },
   {
     "name": "Straits Club (S1) @Timbre+ One North",
@@ -33206,7 +33598,8 @@
     "id": "99104f91-2608-4119-adea-603b9421ccdf",
     "postal": "139957",
     "latitude": 1.2974344,
-    "longitude": 103.7872177
+    "longitude": 103.7872177,
+    "cdc": "Maybe"
   },
   {
     "name": "Streats Cafe",
@@ -33239,7 +33632,8 @@
     "id": "910e1570-d79e-49a1-8428-c8511bb664fb",
     "postal": "730326",
     "latitude": 1.4304903,
-    "longitude": 103.7798276
+    "longitude": 103.7798276,
+    "cdc": "Yes"
   },
   {
     "name": "STUFF'D",
@@ -33888,7 +34282,8 @@
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "544275",
     "latitude": 1.3827845,
-    "longitude": 103.8939931
+    "longitude": 103.8939931,
+    "cdc": "Maybe"
   },
   {
     "name": "SUBWAY",
@@ -35076,7 +35471,8 @@
     "id": "83a017ba-c8a8-47d1-ad25-cef9b7f89a63",
     "postal": "650469",
     "latitude": 1.3551042,
-    "longitude": 103.7416226
+    "longitude": 103.7416226,
+    "cdc": "Yes"
   },
   {
     "name": "SUNRISE CAFE",
@@ -35109,7 +35505,8 @@
     "id": "e40952d1-a646-422c-b6db-df139d236aec",
     "postal": "460216",
     "latitude": 1.3271043,
-    "longitude": 103.9332239
+    "longitude": 103.9332239,
+    "cdc": "Yes"
   },
   {
     "name": "SUPER SHIOK NASI LEMAK",
@@ -35120,7 +35517,8 @@
     "id": "dc83b054-6544-4b41-9b4b-eed0271accf0",
     "postal": "560628",
     "latitude": 1.3809503,
-    "longitude": 103.8406506
+    "longitude": 103.8406506,
+    "cdc": "Yes"
   },
   {
     "name": "Super Shiok Nasi Lemak (S115) @Bedok Market & Food Centre",
@@ -35131,7 +35529,8 @@
     "id": "db43b1e2-9224-49c2-b909-11a1bdd74a49",
     "postal": "460538",
     "latitude": 1.3319449,
-    "longitude": 103.924783
+    "longitude": 103.924783,
+    "cdc": "Yes"
   },
   {
     "name": "SUPER SHIOK NASI LEMAK (S13) @BENDEMEER MARKET & FOOD CENTRE",
@@ -35142,7 +35541,8 @@
     "id": "379c7e48-f182-4cbf-b7e4-45290f00a8f7",
     "postal": "330029",
     "latitude": 1.3192191,
-    "longitude": 103.8629775
+    "longitude": 103.8629775,
+    "cdc": "Yes"
   },
   {
     "name": "SUPER SHIOK NASI LEMAK (S38) @TIONG BAHRU MARKET",
@@ -35153,7 +35553,8 @@
     "id": "1e51db50-23b8-4725-8780-e9cdb3ec5521",
     "postal": "168898",
     "latitude": 1.2848847,
-    "longitude": 103.8323619
+    "longitude": 103.8323619,
+    "cdc": "Yes"
   },
   {
     "name": "SUPER SUSHI",
@@ -35252,7 +35653,8 @@
     "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
     "postal": "640963",
     "latitude": 1.3418469,
-    "longitude": 103.6920801
+    "longitude": 103.6920801,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG",
@@ -35384,7 +35786,8 @@
     "id": "92f90956-de91-43bc-915e-12b8de4ff829",
     "postal": "750133",
     "latitude": 1.4431567,
-    "longitude": 103.830618
+    "longitude": 103.830618,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG 1989 CLASSIC",
@@ -35417,7 +35820,8 @@
     "id": "92f90956-de91-43bc-915e-12b8de4ff829",
     "postal": "820681",
     "latitude": 1.4028084,
-    "longitude": 103.9132017
+    "longitude": 103.9132017,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG 1989 CLASSIC",
@@ -35494,7 +35898,8 @@
     "id": "92f90956-de91-43bc-915e-12b8de4ff829",
     "postal": "731678",
     "latitude": 1.4404625,
-    "longitude": 103.8016146
+    "longitude": 103.8016146,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG 1989 CLASSIC",
@@ -35516,7 +35921,8 @@
     "id": "92f90956-de91-43bc-915e-12b8de4ff829",
     "postal": "540339",
     "latitude": 1.396769,
-    "longitude": 103.8884658
+    "longitude": 103.8884658,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG 1989 CLASSIC",
@@ -35637,7 +36043,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "600037",
     "latitude": 1.3205676,
-    "longitude": 103.7428322
+    "longitude": 103.7428322,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35659,7 +36066,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "543215",
     "latitude": 1.3898999,
-    "longitude": 103.8930766
+    "longitude": 103.8930766,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35714,7 +36122,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "650372",
     "latitude": 1.3587508,
-    "longitude": 103.7513847
+    "longitude": 103.7513847,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35725,7 +36134,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "640221",
     "latitude": 1.3463982,
-    "longitude": 103.7123189
+    "longitude": 103.7123189,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35736,7 +36146,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "640762",
     "latitude": 1.3489093,
-    "longitude": 103.6976934
+    "longitude": 103.6976934,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35747,7 +36158,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "330068",
     "latitude": 1.322197,
-    "longitude": 103.8699273
+    "longitude": 103.8699273,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35758,7 +36170,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "560449",
     "latitude": 1.368009,
-    "longitude": 103.8559821
+    "longitude": 103.8559821,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35769,7 +36182,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "680253",
     "latitude": 1.3772518,
-    "longitude": 103.7444962
+    "longitude": 103.7444962,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35780,7 +36194,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "670445",
     "latitude": 1.3836117,
-    "longitude": 103.7707432
+    "longitude": 103.7707432,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35802,7 +36217,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "730548",
     "latitude": 1.4307736,
-    "longitude": 103.7940509
+    "longitude": 103.7940509,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35813,7 +36229,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "750511",
     "latitude": 1.4538833,
-    "longitude": 103.8195501
+    "longitude": 103.8195501,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35824,7 +36241,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "402001",
     "latitude": 1.3167212,
-    "longitude": 103.8982175
+    "longitude": 103.8982175,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35846,7 +36264,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "430012",
     "latitude": 1.3152838,
-    "longitude": 103.895944
+    "longitude": 103.895944,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35857,7 +36276,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "469662",
     "latitude": 1.326735,
-    "longitude": 103.9318058
+    "longitude": 103.9318058,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35868,7 +36288,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "680818",
     "latitude": 1.3779671,
-    "longitude": 103.7490568
+    "longitude": 103.7490568,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35879,7 +36300,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "760507",
     "latitude": 1.415413,
-    "longitude": 103.8398723
+    "longitude": 103.8398723,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35890,7 +36312,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "730768",
     "latitude": 1.4457214,
-    "longitude": 103.7980178
+    "longitude": 103.7980178,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35901,7 +36324,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "730888",
     "latitude": 1.4377962,
-    "longitude": 103.7952803
+    "longitude": 103.7952803,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35912,7 +36336,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "640495",
     "latitude": 1.3497193,
-    "longitude": 103.7242737
+    "longitude": 103.7242737,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35923,7 +36348,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "640504",
     "latitude": 1.3496583,
-    "longitude": 103.7189225
+    "longitude": 103.7189225,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35934,7 +36360,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "330027",
     "latitude": 1.3188354,
-    "longitude": 103.8628053
+    "longitude": 103.8628053,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35945,7 +36372,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "560629",
     "latitude": 1.3801854,
-    "longitude": 103.8404156
+    "longitude": 103.8404156,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35956,7 +36384,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "527201",
     "latitude": 1.3531778,
-    "longitude": 103.9539428
+    "longitude": 103.9539428,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35967,7 +36396,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "540118",
     "latitude": 1.3852902,
-    "longitude": 103.9017192
+    "longitude": 103.9017192,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35978,7 +36408,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "540308",
     "latitude": 1.3895716,
-    "longitude": 103.8864745
+    "longitude": 103.8864745,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -35989,7 +36420,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "540330",
     "latitude": 1.3966004,
-    "longitude": 103.8890693
+    "longitude": 103.8890693,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -36011,7 +36443,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "530476",
     "latitude": 1.3773967,
-    "longitude": 103.9037051
+    "longitude": 103.9037051,
+    "cdc": "Yes"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -36022,7 +36455,8 @@
     "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
     "postal": "600252",
     "latitude": 1.3431265,
-    "longitude": 103.7379361
+    "longitude": 103.7379361,
+    "cdc": "Maybe"
   },
   {
     "name": "SWEE HENG BAKERY PTE LTD",
@@ -36473,7 +36907,8 @@
     "id": "a535a575-3002-4ff8-b739-53a9d9eb3c1f",
     "postal": "229495",
     "latitude": 1.3120271,
-    "longitude": 103.8396446
+    "longitude": 103.8396446,
+    "cdc": "Yes"
   },
   {
     "name": "TAKARA GRILLED SEAFOOD",
@@ -36484,7 +36919,8 @@
     "id": "a535a575-3002-4ff8-b739-53a9d9eb3c1f",
     "postal": "229495",
     "latitude": 1.3120271,
-    "longitude": 103.8396446
+    "longitude": 103.8396446,
+    "cdc": "Yes"
   },
   {
     "name": "Tambuah Mas Indonesian Restaurant",
@@ -36561,7 +36997,8 @@
     "id": "9982b16d-46de-4842-95ed-e55c696df544",
     "postal": "520801",
     "latitude": 1.3471093,
-    "longitude": 103.938035
+    "longitude": 103.938035,
+    "cdc": "Yes"
   },
   {
     "name": "Tang Tea House",
@@ -36583,7 +37020,8 @@
     "id": "b5103447-dbbf-45d0-ac3e-f9f46f6225a4",
     "postal": "500005",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Tang Tea House Hong Kong Cafe",
@@ -36781,7 +37219,8 @@
     "id": "706b1221-cbca-4d76-9959-cbbff0c75262",
     "postal": "460209",
     "latitude": 1.3245626,
-    "longitude": 103.9310904
+    "longitude": 103.9310904,
+    "cdc": "Maybe"
   },
   {
     "name": "Tasty Wok MR1 @ Happy Hawkers 478 Tampines",
@@ -36792,7 +37231,8 @@
     "id": "5fcd1e31-be02-4b9a-9cd5-a70784340970",
     "postal": "520478",
     "latitude": 1.3611781,
-    "longitude": 103.9529426
+    "longitude": 103.9529426,
+    "cdc": "Maybe"
   },
   {
     "name": "TDR Malay Kitchen @ Marina Bay Sands",
@@ -36880,7 +37320,8 @@
     "id": "dda50b24-0f5b-4470-b2c1-5e6d3564a0cd",
     "postal": "671524",
     "latitude": 1.3853559,
-    "longitude": 103.7661736
+    "longitude": 103.7661736,
+    "cdc": "Yes"
   },
   {
     "name": "Telur Thai (S8) @ Kopitiam Northpoint",
@@ -36913,7 +37354,8 @@
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "640501",
     "latitude": 1.3501026,
-    "longitude": 103.7191499
+    "longitude": 103.7191499,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest",
@@ -36924,7 +37366,8 @@
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "538719",
     "latitude": 1.3793655,
-    "longitude": 103.8879078
+    "longitude": 103.8879078,
+    "cdc": "Yes"
   },
   {
     "name": "Tenderbest",
@@ -36935,7 +37378,8 @@
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "640276",
     "latitude": 1.3536217,
-    "longitude": 103.7038804
+    "longitude": 103.7038804,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest",
@@ -36957,7 +37401,8 @@
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "618497",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest",
@@ -36968,7 +37413,8 @@
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "520827",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest",
@@ -36979,7 +37425,8 @@
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "520824",
     "latitude": 1.3491452,
-    "longitude": 103.9324723
+    "longitude": 103.9324723,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest",
@@ -37001,7 +37448,8 @@
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "730888",
     "latitude": 1.4377962,
-    "longitude": 103.7952803
+    "longitude": 103.7952803,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest",
@@ -37012,7 +37460,8 @@
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "340106",
     "latitude": 1.3339927,
-    "longitude": 103.870734
+    "longitude": 103.870734,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest",
@@ -37034,7 +37483,8 @@
     "id": "6b9ef31e-2608-4d7a-9c46-935549fa74dc",
     "postal": "550237",
     "latitude": 1.354146,
-    "longitude": 103.8701938
+    "longitude": 103.8701938,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest (S1) @ Foodclique Gateway",
@@ -37045,7 +37495,8 @@
     "id": "5801d955-b96a-4e2d-9286-c9d861873fff",
     "postal": "600132",
     "latitude": 1.3343119,
-    "longitude": 103.7396736
+    "longitude": 103.7396736,
+    "cdc": "Maybe"
   },
   {
     "name": "TENDERBEST (S1)@ Y418 Coffee Station Yishun",
@@ -37078,7 +37529,8 @@
     "id": "ff9aaa12-6afb-4682-9f3f-791735232982",
     "postal": "570280",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest (S6) @ 9S 170A Sengkang",
@@ -37100,7 +37552,8 @@
     "id": "7dc87f27-8aaa-4803-a900-d02f6eaddb56",
     "postal": "520419",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Maybe"
   },
   {
     "name": "Tenderbest , PastaPizza (S1) @ Kedai Kopi",
@@ -37111,7 +37564,8 @@
     "id": "17c59211-152d-4e54-b090-0859c71b7768",
     "postal": "430012",
     "latitude": 1.3152838,
-    "longitude": 103.895944
+    "longitude": 103.895944,
+    "cdc": "Yes"
   },
   {
     "name": "TENDERBEST MAKCIK TUCKSHOP",
@@ -37276,7 +37730,8 @@
     "id": "15cf903d-fdc6-451f-bb69-69830e2083df",
     "postal": "081006",
     "latitude": 1.2766229,
-    "longitude": 103.8431576
+    "longitude": 103.8431576,
+    "cdc": "Yes"
   },
   {
     "name": "Tenkutei Japanese & Korean Cuisine",
@@ -37441,7 +37896,8 @@
     "id": "49927dad-3e32-4824-a230-1bd9801baeae",
     "postal": "513527",
     "latitude": 1.3694536,
-    "longitude": 103.9479792
+    "longitude": 103.9479792,
+    "cdc": "Yes"
   },
   {
     "name": "Thai Empire (MR1) @ Koufu Woodlands Height",
@@ -37452,7 +37908,8 @@
     "id": "3bd340d8-ee91-4c8f-97d8-3d1083c2eab6",
     "postal": "737859",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Thai Empire Thai Cuisine  (S5) @ My Kampung",
@@ -37507,7 +37964,8 @@
     "id": "1d4df1e9-1149-48dd-ac0a-cdfcb2f51054",
     "postal": "469662",
     "latitude": 1.326735,
-    "longitude": 103.9318058
+    "longitude": 103.9318058,
+    "cdc": "Yes"
   },
   {
     "name": "THAI MAKAN (S8) @ HAWKERS' STREET BUKIT PANJANG PLAZA",
@@ -38838,7 +39296,8 @@
     "id": "b9716943-b826-40a6-8136-9efb79cb1835",
     "postal": "671524",
     "latitude": 1.3853559,
-    "longitude": 103.7661736
+    "longitude": 103.7661736,
+    "cdc": "Yes"
   },
   {
     "name": "The Kiosk/Desserts (S1) @ Cantine Paya Lebar Square",
@@ -38882,7 +39341,8 @@
     "id": "a2362f4a-d8f8-42ba-9020-bd3233c9166d",
     "postal": "560338",
     "latitude": 1.3639272,
-    "longitude": 103.848504
+    "longitude": 103.848504,
+    "cdc": "Yes"
   },
   {
     "name": "THE MALAYAN COUNCIL",
@@ -39025,7 +39485,8 @@
     "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
     "postal": "069111",
     "latitude": 1.2793394,
-    "longitude": 103.8466398
+    "longitude": 103.8466398,
+    "cdc": "Yes"
   },
   {
     "name": "THE ORIGINAL VADAI",
@@ -39036,7 +39497,8 @@
     "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
     "postal": "402001",
     "latitude": 1.3167212,
-    "longitude": 103.8982175
+    "longitude": 103.8982175,
+    "cdc": "Yes"
   },
   {
     "name": "THE ORIGINAL VADAI",
@@ -39058,7 +39520,8 @@
     "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
     "postal": "199583",
     "latitude": 1.303103,
-    "longitude": 103.8638735
+    "longitude": 103.8638735,
+    "cdc": "Yes"
   },
   {
     "name": "THE ORIGINAL VADAI",
@@ -39564,7 +40027,8 @@
     "id": "625586e1-1bfd-4399-ab91-31ede3e99a9f",
     "postal": "528523",
     "latitude": 1.3538469,
-    "longitude": 103.9403175
+    "longitude": 103.9403175,
+    "cdc": "Yes"
   },
   {
     "name": "THEJELLYHEARTS",
@@ -39663,7 +40127,8 @@
     "id": "fbd87947-1032-4b48-9594-224f3115c4ec",
     "postal": "828629",
     "latitude": 1.4086927,
-    "longitude": 103.9051631
+    "longitude": 103.9051631,
+    "cdc": "Yes"
   },
   {
     "name": "TIME FOR THAI",
@@ -39971,7 +40436,8 @@
     "id": "5a372dec-881e-4245-9ba7-d0080705ecf5",
     "postal": "469627",
     "latitude": 1.3334248,
-    "longitude": 103.9267197
+    "longitude": 103.9267197,
+    "cdc": "Yes"
   },
   {
     "name": "Tongue Tip Lanzhou Beef Noodles",
@@ -40092,7 +40558,8 @@
     "id": "9bc873fc-0be3-4a2d-a13c-a1afd18a0884",
     "postal": "560532",
     "latitude": 1.3737413,
-    "longitude": 103.8547489
+    "longitude": 103.8547489,
+    "cdc": "Yes"
   },
   {
     "name": "TOSUTA",
@@ -40972,7 +41439,8 @@
     "id": "c897dfb8-4241-4d71-9f4a-5e8063c84bb0",
     "postal": "737859",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "UFS FOOD INDUSTRIES PTE. LTD.",
@@ -41027,7 +41495,8 @@
     "id": "0cc0410d-3b47-4677-9b0f-a38d357ef9b1",
     "postal": "640504",
     "latitude": 1.3496583,
-    "longitude": 103.7189225
+    "longitude": 103.7189225,
+    "cdc": "Maybe"
   },
   {
     "name": "UNCLE PENYET",
@@ -41038,7 +41507,8 @@
     "id": "2be99962-997e-4362-8639-4bfa086eef9a",
     "postal": "640221",
     "latitude": 1.3463982,
-    "longitude": 103.7123189
+    "longitude": 103.7123189,
+    "cdc": "Yes"
   },
   {
     "name": "UNCLE PENYET",
@@ -41049,7 +41519,8 @@
     "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
     "postal": "760417",
     "latitude": 1.4243778,
-    "longitude": 103.8463265
+    "longitude": 103.8463265,
+    "cdc": "Maybe"
   },
   {
     "name": "UNCLE PENYET (S4) @ Kimly Coffeeshop 347 AMK",
@@ -41247,7 +41718,8 @@
     "id": "ce111a17-913f-461e-a427-1103aea73d02",
     "postal": "543215",
     "latitude": 1.3898999,
-    "longitude": 103.8930766
+    "longitude": 103.8930766,
+    "cdc": "Maybe"
   },
   {
     "name": "Waker Chicken (stall 6) @ Hawkers' Street Bukit Panjang Plaza",
@@ -41335,7 +41807,8 @@
     "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
     "postal": "730303",
     "latitude": 1.4309946,
-    "longitude": 103.7738782
+    "longitude": 103.7738782,
+    "cdc": "Yes"
   },
   {
     "name": "WATAA BAKERY",
@@ -41346,7 +41819,8 @@
     "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
     "postal": "520826",
     "latitude": 1.3494422,
-    "longitude": 103.9334174
+    "longitude": 103.9334174,
+    "cdc": "Maybe"
   },
   {
     "name": "Waterfront Convention Centre (WCC) Kitchen @ Grand Copthorne Waterfront",
@@ -41423,7 +41897,8 @@
     "id": "e4ebbaf4-7651-4500-84e2-3fea511b2e57",
     "postal": "510258",
     "latitude": 1.3670929,
-    "longitude": 103.9647716
+    "longitude": 103.9647716,
+    "cdc": "Maybe"
   },
   {
     "name": "Western Cuisine (S2) @ Cantine Northpoint City",
@@ -41456,7 +41931,8 @@
     "id": "117954d3-4e48-41e1-900f-76f3ec7bab78",
     "postal": "567720",
     "latitude": 1.3775869,
-    "longitude": 103.8563216
+    "longitude": 103.8563216,
+    "cdc": "Yes"
   },
   {
     "name": "Western Cuisine (S6) @ Foodgle Hub ITE College Central",
@@ -41467,7 +41943,8 @@
     "id": "5b0bec33-4231-4559-8514-b8316681d5a9",
     "postal": "567720",
     "latitude": 1.3775869,
-    "longitude": 103.8563216
+    "longitude": 103.8563216,
+    "cdc": "Yes"
   },
   {
     "name": "WESTERN CUISINE (S8) @ MAKAN PLACE NGEE ANN POLYTECHNIC",
@@ -41500,7 +41977,8 @@
     "id": "a174ed17-237b-46d5-a524-3ba44d2fe8c6",
     "postal": "544278",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "WESTERN FOOD (S1) @ 89.7 SUPPER CLUB",
@@ -41511,7 +41989,8 @@
     "id": "cf8ed1e4-0a4d-416a-9105-2ac28ae51a84",
     "postal": "500005",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "Western Food (S1) @ 89.7 Supper Club (Geylang East)",
@@ -42578,7 +43057,8 @@
     "id": "afdf3d47-0667-4719-b5d3-4398c4ee4a02",
     "postal": "470741",
     "latitude": 1.3377279,
-    "longitude": 103.9223436
+    "longitude": 103.9223436,
+    "cdc": "Yes"
   },
   {
     "name": "Yea Mama Catering",
@@ -42633,7 +43113,8 @@
     "id": "212fd581-990e-4387-add3-bc91466f9375",
     "postal": "760431",
     "latitude": 1.2899175,
-    "longitude": 103.8519072
+    "longitude": 103.8519072,
+    "cdc": "Yes"
   },
   {
     "name": "YI KOU WEI",
@@ -42677,7 +43158,8 @@
     "id": "047c527a-c616-461a-8796-76ab3b035d66",
     "postal": "671524",
     "latitude": 1.3853559,
-    "longitude": 103.7661736
+    "longitude": 103.7661736,
+    "cdc": "Yes"
   },
   {
     "name": "Yong Tau Foo (S1)@Kopitiam MBFC",
@@ -42831,7 +43313,8 @@
     "id": "5cb4d8d2-793c-41b1-9ef1-7bfa7a878ffc",
     "postal": "820418",
     "latitude": 1.4179028,
-    "longitude": 103.9012844
+    "longitude": 103.9012844,
+    "cdc": "Yes"
   },
   {
     "name": "ZENSHO JAPANESE RESTAURANT COMPANY PTE. LTD.",

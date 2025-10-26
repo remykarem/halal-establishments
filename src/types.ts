@@ -14,6 +14,7 @@ export type Establishment = {
   latitude: number;
   longitude: number;
   distanceKm?: number; // Optional distance when sorted by postal
+  cdc?: "Yes" | "Maybe"; // Child Development Centre certification
 };
 
 export type StrategyOptions = {
