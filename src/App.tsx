@@ -4,9 +4,10 @@ import SearchBar from './components/SearchBar';
 import CdcFilterDropdown from './components/CdcFilterDropdown';
 import EstablishmentCard from './components/EstablishmentCard';
 import Pagination from './components/Pagination';
-import { Button } from './components/styled/Button';
+import {Button} from './components/styled/Button';
 import type {Establishment} from './types';
 import {useSearch} from './hooks/useSearch';
+import EstablishmentTypeFilterDropdown from "./components/EstablishmentTypeFilterDropdown.tsx";
 
 function App() {
     const [items, setItems] = useState<Establishment[]>([]);
@@ -63,6 +64,7 @@ function App() {
         setQuery,
         filters,
         setCdcFilter,
+        setEstablishmentTypeFilter,
         page,
         total,
         totalPages,
@@ -91,7 +93,9 @@ function App() {
                 <div className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-center sm:gap-4">
                     <SearchBar value={query} onChange={setQuery} onSubmit={submitSearch}
                                latlng={userLocation !== null ? [userLocation.lat, userLocation.lng] : null}/>
-                    <CdcFilterDropdown value={filters.cdc} onChange={setCdcFilter} />
+                    <CdcFilterDropdown value={filters.cdc} onChange={setCdcFilter}/>
+                    <EstablishmentTypeFilterDropdown value={filters.establishmentType}
+                                                     onChange={setEstablishmentTypeFilter}/>
                     <Button
                         onClick={handleGetLocation}
                         $variant="secondary"

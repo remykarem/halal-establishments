@@ -3,14 +3,22 @@ import type {Establishment, LatLng} from '../types';
 import {PostalDistanceStrategy, TextSearchStrategy, type SearchStrategy} from '../search/strategies';
 
 export type CdcFilter = 'all' | 'with' | 'without';
+export type EstablishmentTypeFilter =
+    | 'All'
+    | 'Hawker'
+    | 'Restaurant'
+    | 'Central Kitchen'
+    | 'Catering Company'
+    | 'Snack Bar / Bakery';
 
 export type Filters = {
     category1: boolean;
     category2: boolean;
     cdc: CdcFilter;
+    establishmentType: EstablishmentTypeFilter;
 };
 
-const defaultFilters: Filters = {category1: false, category2: false, cdc: 'all'};
+const defaultFilters: Filters = {category1: false, category2: false, cdc: 'all', establishmentType: 'All'};
 
 const strategies: SearchStrategy[] = [
     new PostalDistanceStrategy(),
@@ -40,6 +48,11 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
             result = result.filter(item => item.cdc === undefined);
         }
         // 'all' means no filtering on CDC
+
+        // Apply establishment type filter
+        if (filters.establishmentType !== 'All') {
+            result = result.filter(item => item.type === filters.establishmentType);
+        }
 
         return result;
     }, [items, filters]);
@@ -151,6 +164,10 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
     const setQueryOnChange = (v: string) => setQuery(v);
     const toggleFilter = (key: keyof Filters) => setFilters((f) => ({...f, [key]: !f[key]}));
     const setCdcFilter = (value: CdcFilter) => setFilters((f) => ({...f, cdc: value}));
+    const setEstablishmentTypeFilter = (value: EstablishmentTypeFilter) => setFilters((f) => ({
+        ...f,
+        establishmentType: value
+    }));
 
     const goToPage = (p: number) => setPage(Math.min(Math.max(1, p), totalPages));
 
@@ -160,6 +177,7 @@ export function useSearch(items: Establishment[], userLocation: { lat: number; l
         filters,
         toggleFilter,
         setCdcFilter,
+        setEstablishmentTypeFilter,
         page: currentPage,
         total,
         totalPages,
